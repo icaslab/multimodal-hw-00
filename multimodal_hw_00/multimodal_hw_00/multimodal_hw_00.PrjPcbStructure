@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=01-multimodal-powersupply.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=01-multimodal-powersupply.SchDoc|FileName=06-multimodal-analogfrontend.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=01-multimodal-powersupply.SchDoc|FileName=07-multimodal-microcontroller.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=01-multimodal-powersupply.SchDoc|FileName=Sheet1.SchDoc|SheetNumber=4
