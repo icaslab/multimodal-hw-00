@@ -1,4 +1,8 @@
 Record=TopLevelDocument|FileName=01-multimodal-powersupply.SchDoc|SheetNumber=1
 Record=NoMainPathDocument|SourceDocument=01-multimodal-powersupply.SchDoc|FileName=06-multimodal-analogfrontend.SchDoc|SheetNumber=2
 Record=NoMainPathDocument|SourceDocument=01-multimodal-powersupply.SchDoc|FileName=07-multimodal-microcontroller.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=01-multimodal-powersupply.SchDoc|FileName=Sheet1.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=01-multimodal-powersupply.SchDoc|FileName=09-multimodal-flash.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=01-multimodal-powersupply.SchDoc|FileName=12-multimodal-accelerometer.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=01-multimodal-powersupply.SchDoc|FileName=13-multimodal-microcontroller-oscillators.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=01-multimodal-powersupply.SchDoc|FileName=14-multimodal-microcontroller-switches.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=01-multimodal-powersupply.SchDoc|FileName=15-multimodal-microcontroller-rf.SchDoc|SheetNumber=8
