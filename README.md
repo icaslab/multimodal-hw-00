@@ -1,5 +1,5 @@
 
-⚔️⚔️⚔️ **THIS REPO IS NOT FINISHED. IT IS ONGOING WORK. DO NOT CHANGE! ** ⚔️⚔️⚔️
+##⚔️⚔️⚔️ THIS REPO IS NOT FINISHED. IT IS ONGOING WORK. DO NOT CHANGE! ⚔️⚔️⚔️
 
 ### Multimodal Transcutaneous Monitor Hardware (PtcO₂ / PtcCO₂ / SpO₂ / EDA)
 
