@@ -1,12 +1,13 @@
-Record=TopLevelDocument|FileName=06-multimodal-microcontroller.SchDoc|SheetNumber=6
-Record=SheetSymbol|SourceDocument=06-multimodal-microcontroller.SchDoc|Designator=U_07-multimodal-microcontroller-oscillators|SchDesignator=U_07-multimodal-microcontroller-oscillators|FileName=07-multimodal-microcontroller-oscillators.SchDoc|SheetNumber=7|SymbolType=Normal|RawFileName=07-multimodal-microcontroller-oscillators.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=06-multimodal-microcontroller.SchDoc|Designator=U_08-multimodal-microcontroller-switches-display|SchDesignator=U_08-multimodal-microcontroller-switches-display|FileName=08-multimodal-microcontroller-switches-display.SchDoc|SheetNumber=8|SymbolType=Normal|RawFileName=08-multimodal-microcontroller-switches-display.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=06-multimodal-microcontroller.SchDoc|Designator=U_09-multimodal-microcontroller-rf|SchDesignator=U_09-multimodal-microcontroller-rf|FileName=09-multimodal-microcontroller-rf.SchDoc|SheetNumber=9|SymbolType=Normal|RawFileName=09-multimodal-microcontroller-rf.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=NoMainPathDocument|SourceDocument=06-multimodal-microcontroller.SchDoc|FileName=01-multimodal-powersupply-connections.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=06-multimodal-microcontroller.SchDoc|FileName=02-multimodal-pmic.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=06-multimodal-microcontroller.SchDoc|FileName=03-multimodal-battery-charger.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=06-multimodal-microcontroller.SchDoc|FileName=04-multimodal-flash.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=06-multimodal-microcontroller.SchDoc|FileName=05-multimodal-analogfrontend.SchDoc|SheetNumber=5
-Record=NoMainPathDocument|SourceDocument=06-multimodal-microcontroller.SchDoc|FileName=10-multimodal-combined-sensor.SchDoc|SheetNumber=10
-Record=NoMainPathDocument|SourceDocument=06-multimodal-microcontroller.SchDoc|FileName=11-multimodal-accelerometer.SchDoc|SheetNumber=11
-Record=NoMainPathDocument|SourceDocument=06-multimodal-microcontroller.SchDoc|FileName=12-multimodal-RTC.SchDoc|SheetNumber=12
+Record=TopLevelDocument|FileName=06-multimodal-microcontroller.SchDoc|SheetNumber=7
+Record=SheetSymbol|SourceDocument=06-multimodal-microcontroller.SchDoc|Designator=U_07-multimodal-microcontroller-oscillators|SchDesignator=U_07-multimodal-microcontroller-oscillators|FileName=07-multimodal-microcontroller-oscillators.SchDoc|SheetNumber=8|SymbolType=Normal|RawFileName=07-multimodal-microcontroller-oscillators.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=06-multimodal-microcontroller.SchDoc|Designator=U_08-multimodal-microcontroller-switches-display|SchDesignator=U_08-multimodal-microcontroller-switches-display|FileName=08-multimodal-microcontroller-switches-display.SchDoc|SheetNumber=9|SymbolType=Normal|RawFileName=08-multimodal-microcontroller-switches-display.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=06-multimodal-microcontroller.SchDoc|Designator=U_09-multimodal-microcontroller-rf|SchDesignator=U_09-multimodal-microcontroller-rf|FileName=09-multimodal-microcontroller-rf.SchDoc|SheetNumber=10|SymbolType=Normal|RawFileName=09-multimodal-microcontroller-rf.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=06-multimodal-microcontroller.SchDoc|FileName=00-multimodal-coversheet.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=06-multimodal-microcontroller.SchDoc|FileName=01-multimodal-powersupply-connections.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=06-multimodal-microcontroller.SchDoc|FileName=02-multimodal-pmic.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=06-multimodal-microcontroller.SchDoc|FileName=03-multimodal-battery-charger.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=06-multimodal-microcontroller.SchDoc|FileName=04-multimodal-flash.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=06-multimodal-microcontroller.SchDoc|FileName=05-multimodal-analogfrontend.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=06-multimodal-microcontroller.SchDoc|FileName=10-multimodal-combined-sensor.SchDoc|SheetNumber=11
+Record=NoMainPathDocument|SourceDocument=06-multimodal-microcontroller.SchDoc|FileName=11-multimodal-accelerometer.SchDoc|SheetNumber=12
+Record=NoMainPathDocument|SourceDocument=06-multimodal-microcontroller.SchDoc|FileName=12-multimodal-RTC.SchDoc|SheetNumber=13

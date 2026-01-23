@@ -50,6 +50,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=00-multimodal-coversheet.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OESUVQVV
+
+[Document2]
 DocumentPath=01-multimodal-powersupply-connections.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -66,7 +83,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AZOYPCKP
 
-[Document2]
+[Document3]
 DocumentPath=02-multimodal-pmic.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -83,7 +100,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZXONBTEK
 
-[Document3]
+[Document4]
 DocumentPath=03-multimodal-battery-charger.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=POPGZVMA
 
-[Document4]
+[Document5]
 DocumentPath=04-multimodal-flash.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WGRQGGTG
 
-[Document5]
+[Document6]
 DocumentPath=05-multimodal-analogfrontend.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SZOHTYDI
 
-[Document6]
+[Document7]
 DocumentPath=multimodal.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AQRSWDKC
 
-[Document7]
+[Document8]
 DocumentPath=multimodal.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HLNSAIWT
 
-[Document8]
+[Document9]
 DocumentPath=06-multimodal-microcontroller.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZTSGQDUF
 
-[Document9]
+[Document10]
 DocumentPath=07-multimodal-microcontroller-oscillators.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TLTNNHCC
 
-[Document10]
+[Document11]
 DocumentPath=08-multimodal-microcontroller-switches-display.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GKOIECVV
 
-[Document11]
+[Document12]
 DocumentPath=09-multimodal-microcontroller-rf.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZDMGDEVJ
 
-[Document12]
+[Document13]
 DocumentPath=10-multimodal-combined-sensor.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UWMISRZB
 
-[Document13]
+[Document14]
 DocumentPath=11-multimodal-accelerometer.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KSEYCRWR
 
-[Document14]
+[Document15]
 DocumentPath=12-multimodal-RTC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
