@@ -1,18 +1,7 @@
 
 ⚔️⚔️⚔️ **THIS REPO IS NOT FINISHED. IT IS ONGOING WORK. DO NOT CHANGE! ** ⚔️⚔️⚔️
 
-## Multimodal Transcutaneous Monitor Hardware (PtcO₂ / PtcCO₂ / SpO₂ / EDA)
-   .--------------------.
-   |  Multimodal PCB 🧠 |
-   |  PtcO₂ • PtcCO₂    |
-   |  SpO₂  •  EDA      |
-   |                    |
-   |  [ ] [ ] [ ] [ ]   |
-   '----o----------o----'
-        |  USB-C  |
-        '--------'
-### Info
-Hardware design files (Altium Designer) for a wearable research prototype that combines **transcutaneous gas sensing (PtcO₂ / PtcCO₂)**, **pulse oximetry (SpO₂)**, and **electrodermal activity (EDA)** in one platform.
+### Multimodal Transcutaneous Monitor Hardware (PtcO₂ / PtcCO₂ / SpO₂ / EDA)
 
 ### Key Specs
 - **MCU:** STM32WB55RG (dual-core Cortex-M4/M0+, BLE)
