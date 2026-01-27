@@ -1,4 +1,4 @@
-⚔️⚔️⚔️ THIS REPO IS NOT FINISHED. IT IS ONGOING WORK. DO NOT CHANGE! ⚔️⚔️⚔️
+⚔️ Work in Progress: This repository is under active development. Please do not make changes. ⚔️
 
 ### Multimodal Transcutaneous Monitor Hardware (PtcO₂ / PtcCO₂ / SpO₂ / EDA)
 
