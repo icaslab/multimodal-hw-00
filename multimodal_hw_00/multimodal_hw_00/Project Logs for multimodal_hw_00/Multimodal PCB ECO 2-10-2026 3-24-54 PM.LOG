@@ -1,0 +1,13 @@
+Added Component: Designator=D9(SFH 7015_OSR)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ams OSRAM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SFH 7015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "Q65113A4161"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RED Pin=D9-2
+Added Pin To Net: NetName=VLED_IR-RED Pin=D9-3
+Added Pin To Net: NetName=IR Pin=D9-4
+Added Member To Class: ClassName=U_06-multimodal-analogfrontend-PPG Member=Component D9 SFH 7015
+Add Class Member: Failed to add class member : Component SH1 MS190-10C
