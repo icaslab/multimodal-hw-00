@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NetC13_1 Pin=C13-1
+Removed Pin From Net: NetName=NetC13_1 Pin=U2-A2
+Change Component Designator: OldDesignator=U? NewDesignator=U4
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Added Pin To Net: NetName=NetC13_1 Pin=R18-1
+Added Pin To Net: NetName=NetC13_1 Pin=U2-A1
+Added Pin To Net: NetName=I2C1_SDA Pin=U2-C1
+Change Net Name : Old Net Name=NetC13_1 New Net Name=BQ_INT
+Added Pin To Net: NetName=NetC13_1 Pin=C13-1
+Added Pin To Net: NetName=NetC13_1 Pin=U2-A2
+Added Pin To Net: NetName=NetC13_1 Pin=U6-38
+Added Net: Name=NetC13_1
+Add Class Member: Failed to add class member : Component L1 LQH43CN3R3M03L
+Add Class Member: Failed to add class member : Component SH1 MS190-10C

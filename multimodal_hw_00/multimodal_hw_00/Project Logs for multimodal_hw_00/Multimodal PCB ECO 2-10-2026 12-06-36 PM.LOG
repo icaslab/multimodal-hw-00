@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=RST_MCU Pin=C59-1
+Removed Pin From Net: NetName=RST_MCU Pin=SW1-2
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Change Net Name : Old Net Name=RST_MCU New Net Name=NetJ4_3
+Added Pin To Net: NetName=RST_MCU Pin=C59-1
+Added Pin To Net: NetName=RST_MCU Pin=SW1-2
+Added Net: Name=RST_MCU
+Add Class Member: Failed to add class member : Component L1 LQH43CN3R3M03L
+Add Class Member: Failed to add class member : Component SH1 MS190-10C
