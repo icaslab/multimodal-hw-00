@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=U5 Old Footprint=CB-36-11_ADI New Footprint=ADPD7001_36-WLCSP
+Added Member To Class: ClassName=U_01-multimodal-powersupply Member=Component J2 battery_connection
+Added Member To Class: ClassName=U_05-multimodal-analogfrontend Member=Component R17 RMCF0603ZT0R00
+Added Member To Class: ClassName=U_05-multimodal-analogfrontend Member=Component R25 RMCF0603ZT0R00
+Add Class Member: Failed to add class member : Component SH1 MS190-10C

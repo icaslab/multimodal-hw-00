@@ -1,0 +1,51 @@
+Removed Pin From Net: NetName=GND Pin=D3-2
+Removed Member From Class: ClassName=U_02-multimodal-pmic Member=D3
+Change Component Footprint: Designator=L1 Old Footprint=IND_LQH43CN3R3M03L New Footprint=IND_SUMIDA
+Change Component Comment : Designator=L1 Old Comment=LQH43CN3R3M03L New Comment=CDRH2D16LDNP-3R3NC
+Change Component Designator: OldDesignator=EXT NewDesignator=J1
+Change Component Designator: OldDesignator=USB-C NewDesignator=J3
+Change Component Designator: OldDesignator=VREG NewDesignator=TP9
+Added Component: Designator=D2(SOD-523_STM-L)
+Add component (AddParameter): Name = "Breakdown Voltage"; Value = "6.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "TVS Diodes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clamping Voltage"; Value = "7V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.diodes.com/assets/Datasheets/DESD3V3S1BL.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Direction"; Value = "Bidirectional"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Element Configuration"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Diodes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "DESD3V3S1BL-7B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "35W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Reverse Leakage Current"; Value = "100nA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Breakdown Voltage"; Value = "3.8V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-65°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Bidirectional Channels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Pulse Current"; Value = "5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Pulse Power"; Value = "35W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Bidirectional"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Line Protection"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.32000, 10=0.26000, 100=0.13790, 500=0.09076, 1000=0.06171, 2000=0.05566, 5000=0.04840 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Zener"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Standoff Voltage"; Value = "3.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "514017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "NSR0340V2T1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "3.3V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=L2-1
+Added Pin To Net: NetName=NetD2_1 Pin=U1-4
+Added Net: Name=NetD2_1
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component D2 NSR0340V2T1G
+Add Class Member: Failed to add class member : Component SH1 MS190-10C

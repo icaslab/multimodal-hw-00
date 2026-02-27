@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=VIN_REG Pin=L1-2
+Change Component Footprint: Designator=L1 Old Footprint=IND_SUMIDA New Footprint=SD3118
+Change Component Comment : Designator=L1 Old Comment=CDRH2D16LDNP-3R3NC New Comment=SD3118-3R3-R
+Change component parameters: Designator = "L1" ("L1"); Footprint = "IND_SUMIDA"; UniqueID = "\DTOTADKG\YFGUTZBF\XXGHYPKJ" ("\DTOTADKG\YFGUTZBF\XXGHYPKJ")
+Change component parameters (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Eaton"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SD3114-4R7-R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VIN_REG Pin=L1-1
+Added Pin To Net: NetName=NetL1_2 Pin=L1-2
+Added Pin To Net: NetName=NetL1_2 Pin=U1-1
+Added Net: Name=NetL1_2
+Add Class Member: Failed to add class member : Component SH1 MS190-10C

@@ -1,0 +1,29 @@
+Removed Member From Class: ClassName=U_01-multimodal-powersupply Member=J?
+Removed Member From Class: ClassName=U_06-multimodal-analogfrontend-PPG Member=R?
+Removed Member From Class: ClassName=U_09-multimodal-microcontroller-switches-display Member=R?
+Change Component Designator: OldDesignator=CR? NewDesignator=CR3
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Component Designator: OldDesignator=J? NewDesignator=J6
+Change Component Designator: OldDesignator=J? NewDesignator=J7
+Change Component Designator: OldDesignator=J? NewDesignator=J8
+Change Component Designator: OldDesignator=J? NewDesignator=J9
+Change Component Designator: OldDesignator=R? NewDesignator=R17
+Change Component Designator: OldDesignator=R? NewDesignator=R25
+Change Component Designator: OldDesignator=R? NewDesignator=R34
+Change Component Designator: OldDesignator=R? NewDesignator=R39
+Change Component Designator: OldDesignator=R? NewDesignator=R40
+Change Component Designator: OldDesignator=R? NewDesignator=R41
+Change Component Designator: OldDesignator=R? NewDesignator=R42
+Change Component Designator: OldDesignator=R? NewDesignator=R43
+Added Member To Class: ClassName=U_01-multimodal-powersupply Member=Component J2 battery_connection
+Added Member To Class: ClassName=U_05-multimodal-analogfrontend Member=Component J6 electrode
+Added Member To Class: ClassName=U_05-multimodal-analogfrontend Member=Component J7 electrode
+Added Member To Class: ClassName=U_05-multimodal-analogfrontend Member=Component J9 electrode
+Added Member To Class: ClassName=U_05-multimodal-analogfrontend Member=Component R17 RMCF0603ZT0R00
+Added Member To Class: ClassName=U_05-multimodal-analogfrontend Member=Component R34 RMCF0603ZT0R00
+Added Member To Class: ClassName=U_05-multimodal-analogfrontend Member=Component R39 RMCF0603ZT0R00
+Added Member To Class: ClassName=U_06-multimodal-analogfrontend-PPG Member=Component R40 RC0603FR-075R1L
+Added Member To Class: ClassName=U_06-multimodal-analogfrontend-PPG Member=Component R41 RC0603FR-075R1L
+Added Member To Class: ClassName=U_09-multimodal-microcontroller-switches-display Member=Component R42 RMCF0603JG100K
+Added Member To Class: ClassName=U_09-multimodal-microcontroller-switches-display Member=Component R43 RMCF0603JG100K
+Add Class Member: Failed to add class member : Component SH1 MS190-10C

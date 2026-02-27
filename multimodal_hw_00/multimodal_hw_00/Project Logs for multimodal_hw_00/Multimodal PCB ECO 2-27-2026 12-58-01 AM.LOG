@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=3V3D Pin=U3-A4
+Removed Pin From Net: NetName=QUAD_SPI_SCK Pin=U3-B2
+Removed Pin From Net: NetName=GND Pin=U3-B3
+Removed Pin From Net: NetName=3V3D Pin=U3-B4
+Removed Pin From Net: NetName=QUAD_SPI_CSn Pin=U3-C2
+Removed Pin From Net: NetName=NetR22_2 Pin=U3-C4
+Removed Pin From Net: NetName=NetR21_2 Pin=U3-D2
+Removed Pin From Net: NetName=NetR20_2 Pin=U3-D3
+Removed Pin From Net: NetName=NetR23_2 Pin=U3-D4
+Removed Pin From Net: NetName=3V3D Pin=U3-E4
+Removed Member From Class: ClassName=U_04-multimodal-flash Member=U3
+Added Component: Designator=U?(BGA5x5_S25FL512SAGBHEA10_INF)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "S25FL512SAGBHEA10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Memory"; VariantName = "[No Variations]"
+Added Component: Designator=U?(BGA5x5_S25FL512SAGBHEA10_INF)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "S25FL512SAGBHEA10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Memory"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3D Pin=U?-A4
+Added Pin To Net: NetName=QUAD_SPI_SCK Pin=U?-B2
+Added Pin To Net: NetName=GND Pin=U?-B3
+Added Pin To Net: NetName=3V3D Pin=U?-B4
+Added Pin To Net: NetName=QUAD_SPI_CSn Pin=U?-C2
+Added Pin To Net: NetName=NetR22_2 Pin=U?-C4
+Added Pin To Net: NetName=NetR21_2 Pin=U?-D2
+Added Pin To Net: NetName=NetR20_2 Pin=U?-D3
+Added Pin To Net: NetName=NetR23_2 Pin=U?-D4
+Added Pin To Net: NetName=3V3D Pin=U?-E4
+Added Member To Class: ClassName=U_01-multimodal-powersupply Member=Component J2 battery_connection
+Added Member To Class: ClassName=U_05-multimodal-analogfrontend Member=Component R17 RMCF0603ZT0R00
+Added Member To Class: ClassName=U_05-multimodal-analogfrontend Member=Component R25 RMCF0603ZT0R00
+Add Class Member: Failed to add class member : Component SH1 MS190-10C
+Added Member To Class: ClassName=U_04-multimodal-flash Member=Component U? S25FL512SAGBHEA10
+Added Member To Class: ClassName=U_04-multimodal-flash Member=Component U? S25FL512SAGBHEA10

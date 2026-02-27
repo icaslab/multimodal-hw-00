@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=IN NewDesignator=TP9
+Change Component Designator: OldDesignator=PG1V8 NewDesignator=TP3
+Change Component Designator: OldDesignator=PG5v NewDesignator=TP1
+Add Class Member: Failed to add class member : Component SH1 MS190-10C

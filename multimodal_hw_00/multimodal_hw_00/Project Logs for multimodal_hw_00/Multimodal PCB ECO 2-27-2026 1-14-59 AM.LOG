@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=BQ_INT Pin=U2-A1
+Removed Pin From Net: NetName=NetC13_1 Pin=U2-A2
+Removed Pin From Net: NetName=I2C1_SCL Pin=U2-B1
+Removed Pin From Net: NetName=VIN_REG Pin=U2-B2
+Removed Pin From Net: NetName=I2C1_SDA Pin=U2-C1
+Removed Pin From Net: NetName=BAT+ Pin=U2-C2
+Removed Pin From Net: NetName=NetR6_2 Pin=U2-D1
+Removed Pin From Net: NetName=GND Pin=U2-D2
+Removed Member From Class: ClassName=U_03-multimodal-battery-charger Member=U2
+Added Component: Designator=U?(YBG0008_TEX)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.ti.com/lit/gpn/bq21088"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BQ21088YBGR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BQ_INT Pin=U?-A1
+Added Pin To Net: NetName=NetC13_1 Pin=U?-A2
+Added Pin To Net: NetName=I2C1_SCL Pin=U?-B1
+Added Pin To Net: NetName=VIN_REG Pin=U?-B2
+Added Pin To Net: NetName=I2C1_SDA Pin=U?-C1
+Added Pin To Net: NetName=BAT+ Pin=U?-C2
+Added Pin To Net: NetName=NetR6_2 Pin=U?-D1
+Added Pin To Net: NetName=GND Pin=U?-D2
+Add Class Member: Failed to add class member : Component SH1 MS190-10C
+Added Member To Class: ClassName=U_03-multimodal-battery-charger Member=Component U? BQ21088YBGR

@@ -1,0 +1,133 @@
+Removed Pin From Net: NetName=IMPIP Pin=C22-1
+Removed Pin From Net: NetName=EXCN Pin=C25-1
+Removed Pin From Net: NetName=IMPIN Pin=C27-1
+Removed Pin From Net: NetName=RST_MCU Pin=C59-1
+Removed Pin From Net: NetName=GND Pin=CR1-1
+Removed Pin From Net: NetName=USB_DN Pin=CR1-5
+Removed Pin From Net: NetName=USB_DP Pin=CR1-6
+Removed Pin From Net: NetName=RED Pin=D9-2
+Removed Pin From Net: NetName=IR Pin=D9-4
+Removed Pin From Net: NetName=GND Pin=J2-1
+Removed Pin From Net: NetName=BAT+ Pin=J2-2
+Removed Pin From Net: NetName=BQ_INT Pin=R1-1
+Removed Pin From Net: NetName=BQ_INT Pin=R3-1
+Removed Pin From Net: NetName=USB_VBUS Pin=R3-2
+Removed Pin From Net: NetName=GND Pin=R17-1
+Removed Pin From Net: NetName=BOOT0_MCU Pin=R17-2
+Removed Pin From Net: NetName=EXCP Pin=R25-1
+Removed Pin From Net: NetName=NetC21_1 Pin=R25-2
+Removed Pin From Net: NetName=RST_MCU Pin=SW1-2
+Removed Pin From Net: NetName=BQ_INT Pin=TP9-1
+Removed Pin From Net: NetName=GREEN Pin=U5-B3
+Removed Pin From Net: NetName=NetC13_1 Pin=U6-38
+Removed Member From Class: ClassName=U_01-multimodal-powersupply Member=J2
+Removed Member From Class: ClassName=U_09-multimodal-microcontroller-switches-display Member=R17
+Removed Member From Class: ClassName=U_05-multimodal-analogfrontend Member=R25
+Added Component: Designator=CR?(SOD-523_STM-L)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BAT54KFILM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Refdes"; Value = "Refdes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(electrode)
+Added Component: Designator=J?(electrode)
+Added Component: Designator=J?(electrode)
+Added Component: Designator=J?(Battery_connection)
+Added Component: Designator=J?(electrode)
+Added Component: Designator=R?(RES-STACK-POLE-0603)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "49AK2670"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES-STACK-POLE-0603)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "49AK2670"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES-STACK-POLE-0603)
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "RMCF0603JG100KCT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES-STACK-POLE-0603)
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "RMCF0603JG100KCT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES-STACK-POLE-0603)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "RMCF0603ZT0R00CT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES-STACK-POLE-0603)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "RMCF0603ZT0R00CT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES-STACK-POLE-0603)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "RMCF0603ZT0R00CT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES-STACK-POLE-0603)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "RMCF0603ZT0R00CT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=CR1-2
+Added Pin To Net: NetName=USB_DP Pin=CR1-4
+Added Pin To Net: NetName=USB_VBUS Pin=CR1-5
+Added Pin To Net: NetName=USB_DN Pin=CR1-6
+Added Pin To Net: NetName=RST_MCU Pin=CR?-2
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=BAT+ Pin=J?-2
+Added Pin To Net: NetName=NetC13_1 Pin=R1-1
+Added Pin To Net: NetName=USB_VBUS Pin=R3-1
+Added Pin To Net: NetName=NetC13_1 Pin=R3-2
+Added Pin To Net: NetName=BOOT0_MCU Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=NetC21_1 Pin=R?-1
+Added Pin To Net: NetName=3V3D Pin=R?-2
+Added Pin To Net: NetName=BOOT0_MCU Pin=R?-2
+Added Pin To Net: NetName=EXCN Pin=R?-2
+Added Pin To Net: NetName=EXCP Pin=R?-2
+Added Pin To Net: NetName=IMPIN Pin=R?-2
+Added Pin To Net: NetName=IMPIP Pin=R?-2
+Added Pin To Net: NetName=IR Pin=R?-2
+Added Pin To Net: NetName=RED Pin=R?-2
+Added Pin To Net: NetName=NetC13_1 Pin=TP9-1
+Added Pin To Net: NetName=GREEN Pin=U5-A3
+Added Pin To Net: NetName=BQ_INT Pin=U6-38
+Added Pin To Net: NetName=BIA1 Pin=C21-2
+Added Pin To Net: NetName=BIA1 Pin=J?-1
+Added Net: Name=BIA1
+Added Pin To Net: NetName=BIA2 Pin=C22-2
+Added Pin To Net: NetName=BIA2 Pin=J?-1
+Added Net: Name=BIA2
+Added Pin To Net: NetName=BIA3 Pin=C27-2
+Added Pin To Net: NetName=BIA3 Pin=J?-1
+Added Net: Name=BIA3
+Added Pin To Net: NetName=BIA4 Pin=C25-2
+Added Pin To Net: NetName=BIA4 Pin=J?-1
+Added Net: Name=BIA4
+Added Pin To Net: NetName=NetC22_1 Pin=C22-1
+Added Pin To Net: NetName=NetC22_1 Pin=R?-1
+Added Net: Name=NetC22_1
+Added Pin To Net: NetName=NetC25_1 Pin=C25-1
+Added Pin To Net: NetName=NetC25_1 Pin=R?-1
+Added Net: Name=NetC25_1
+Added Pin To Net: NetName=NetC27_1 Pin=C27-1
+Added Pin To Net: NetName=NetC27_1 Pin=R?-1
+Added Net: Name=NetC27_1
+Added Pin To Net: NetName=NetC59_1 Pin=C59-1
+Added Pin To Net: NetName=NetC59_1 Pin=CR?-1
+Added Pin To Net: NetName=NetC59_1 Pin=SW1-2
+Added Net: Name=NetC59_1
+Added Pin To Net: NetName=NetCR1_1 Pin=CR1-1
+Added Pin To Net: NetName=NetCR1_1 Pin=U6-52
+Added Net: Name=NetCR1_1
+Added Pin To Net: NetName=NetD9_2 Pin=D9-2
+Added Pin To Net: NetName=NetD9_2 Pin=R?-1
+Added Net: Name=NetD9_2
+Added Pin To Net: NetName=NetD9_4 Pin=D9-4
+Added Pin To Net: NetName=NetD9_4 Pin=R?-1
+Added Net: Name=NetD9_4
+Added Member To Class: ClassName=U_09-multimodal-microcontroller-switches-display Member=Component CR? BAT54KFILM
+Added Member To Class: ClassName=U_01-multimodal-powersupply Member=Component J? battery_connection
+Added Member To Class: ClassName=U_05-multimodal-analogfrontend Member=Component J? electrode
+Added Member To Class: ClassName=U_05-multimodal-analogfrontend Member=Component J? electrode
+Added Member To Class: ClassName=U_05-multimodal-analogfrontend Member=Component J? electrode
+Added Member To Class: ClassName=U_05-multimodal-analogfrontend Member=Component J? electrode
+Added Member To Class: ClassName=U_05-multimodal-analogfrontend Member=Component R? RMCF0603ZT0R00
+Added Member To Class: ClassName=U_05-multimodal-analogfrontend Member=Component R? RMCF0603ZT0R00
+Added Member To Class: ClassName=U_05-multimodal-analogfrontend Member=Component R? RMCF0603ZT0R00
+Added Member To Class: ClassName=U_05-multimodal-analogfrontend Member=Component R? RMCF0603ZT0R00
+Added Member To Class: ClassName=U_06-multimodal-analogfrontend-PPG Member=Component R? RC0603FR-075R1L
+Added Member To Class: ClassName=U_06-multimodal-analogfrontend-PPG Member=Component R? RC0603FR-075R1L
+Added Member To Class: ClassName=U_09-multimodal-microcontroller-switches-display Member=Component R? RMCF0603JG100K
+Added Member To Class: ClassName=U_09-multimodal-microcontroller-switches-display Member=Component R? RMCF0603JG100K
+Add Class Member: Failed to add class member : Component SH1 MS190-10C

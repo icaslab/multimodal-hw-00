@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetD9_2 Pin=R41-1
+Removed Pin From Net: NetName=RED Pin=R41-2
+Change Component Comment : Designator=R41 Old Comment=RC0603FR-075R1L New Comment=RMCF0603ZT0R00
+Change component parameters: Designator = "R41" ("R41"); Footprint = "RES-STACK-POLE-0603"; UniqueID = "\NOBCMHAC\ZMLBIJPF\XTKLBYHI" ("\NOBCMHAC\ZMLBIJPF\XTKLBYHI")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "RMCF0603ZT0R00CT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RED Pin=R41-1
+Added Pin To Net: NetName=NetD9_2 Pin=R41-2
+Added Member To Class: ClassName=U_01-multimodal-powersupply Member=Component J2 battery_connection
+Added Member To Class: ClassName=U_05-multimodal-analogfrontend Member=Component R17 RMCF0603ZT0R00
+Added Member To Class: ClassName=U_05-multimodal-analogfrontend Member=Component R25 RMCF0603ZT0R00
+Add Class Member: Failed to add class member : Component SH1 MS190-10C

@@ -1,0 +1,14 @@
+Added Component: Designator=J4(CONN_TC2030-IDC_TGC)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Tag-Connect"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TC2030-IDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3D Pin=J4-1
+Added Pin To Net: NetName=JTMS_SWDIO Pin=J4-2
+Added Pin To Net: NetName=NetJ4_3 Pin=J4-3
+Added Pin To Net: NetName=JTCK_SWCLK Pin=J4-4
+Added Pin To Net: NetName=GND Pin=J4-5
+Added Pin To Net: NetName=JTCK_SWO Pin=J4-6
+Added Member To Class: ClassName=U_13-multimodal-connections Member=Component J4 TC2030-IDC
+Add Class Member: Failed to add class member : Component SH1 MS190-10C

@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=3V3D Pin=U?-A4
+Removed Pin From Net: NetName=QUAD_SPI_SCK Pin=U?-B2
+Removed Pin From Net: NetName=QUAD_SPI_CSn Pin=U?-C2
+Removed Pin From Net: NetName=NetR22_2 Pin=U?-C4
+Removed Pin From Net: NetName=NetR21_2 Pin=U?-D2
+Removed Pin From Net: NetName=NetR20_2 Pin=U?-D3
+Removed Pin From Net: NetName=NetR23_2 Pin=U?-D4
+Removed Pin From Net: NetName=3V3D Pin=U?-E4
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Added Pin To Net: NetName=3V3D Pin=U3-A4
+Added Pin To Net: NetName=QUAD_SPI_SCK Pin=U3-B2
+Added Pin To Net: NetName=QUAD_SPI_CSn Pin=U3-C2
+Added Pin To Net: NetName=NetR22_2 Pin=U3-C4
+Added Pin To Net: NetName=NetR21_2 Pin=U3-D2
+Added Pin To Net: NetName=NetR20_2 Pin=U3-D3
+Added Pin To Net: NetName=NetR23_2 Pin=U3-D4
+Added Pin To Net: NetName=3V3D Pin=U3-E4
+Add Class Member: Failed to add class member : Component SH1 MS190-10C

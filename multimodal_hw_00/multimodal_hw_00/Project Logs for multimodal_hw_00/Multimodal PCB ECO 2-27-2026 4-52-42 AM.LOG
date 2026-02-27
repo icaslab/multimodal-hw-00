@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=ADPD NewDesignator=U5
+Added Component: Designator=CR3(SOD-523_STM-L)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BAT54KFILM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Refdes"; Value = "Refdes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC59_1 Pin=CR3-1
+Added Pin To Net: NetName=RST_MCU Pin=CR3-2
+Added Member To Class: ClassName=U_09-multimodal-microcontroller-switches-display Member=Component CR3 BAT54KFILM
+Add Class Member: Failed to add class member : Component SH1 MS190-10C
