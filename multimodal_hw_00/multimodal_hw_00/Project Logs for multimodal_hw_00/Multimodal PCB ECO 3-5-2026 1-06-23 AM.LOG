@@ -1,0 +1,12 @@
+Added Component: Designator=L2(SD3114)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Eaton"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SD3114-4R7-R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD2_1 Pin=L2-1
+Added Pin To Net: NetName=1V8 Pin=L2-2
+Add Differential Pair: Number of nets in differential pair USB_DN is 1 instead of 2
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component L2 SD3114-4R7-R
+Added Member To Class: ClassName=U_05-multimodal-analogfrontend Member=Component R46 RC0402JR-071KL
+Add Class Member: Failed to add class member : Component SH1 MS190-10C

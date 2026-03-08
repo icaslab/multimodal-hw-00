@@ -1,0 +1,127 @@
+Removed Pin From Net: NetName=GND Pin=C59-2
+Removed Pin From Net: NetName=5V Pin=R4-2
+Removed Pin From Net: NetName=1V8 Pin=R5-2
+Removed Pin From Net: NetName=GND Pin=R6-1
+Removed Pin From Net: NetName=QUAD_SPI_IO0 Pin=R20-1
+Removed Pin From Net: NetName=QUAD_SPI_IO1 Pin=R21-1
+Removed Pin From Net: NetName=QUAD_SPI_IO2 Pin=R22-1
+Removed Pin From Net: NetName=QUAD_SPI_IO3 Pin=R23-1
+Removed Pin From Net: NetName=1V8 Pin=R26-2
+Removed Pin From Net: NetName=GND Pin=R27-1
+Removed Pin From Net: NetName=NetD13_1 Pin=R27-2
+Removed Pin From Net: NetName=GND Pin=R29-1
+Removed Pin From Net: NetName=BOOT0_MCU Pin=R42-1
+Removed Pin From Net: NetName=3V3D Pin=R42-2
+Removed Pin From Net: NetName=GND Pin=R43-1
+Removed Pin From Net: NetName=BOOT0_MCU Pin=R43-2
+Removed Pin From Net: NetName=GND Pin=R44-1
+Removed Pin From Net: NetName=GND Pin=R45-1
+Removed Pin From Net: NetName=GND Pin=R46-1
+Removed Pin From Net: NetName=GND Pin=R47-1
+Removed Pin From Net: NetName=GND Pin=SW1-1
+Removed Pin From Net: NetName=3V3D Pin=U3-A4
+Removed Pin From Net: NetName=GREEN Pin=U5-A3
+Removed Pin From Net: NetName=RED Pin=U5-C4
+Removed Member From Class: ClassName=U_05-multimodal-analogfrontend Member=C26
+Removed Member From Class: ClassName=U_03-multimodal-battery-charger Member=R6
+Removed Member From Class: ClassName=U_04-multimodal-flash Member=R20
+Removed Member From Class: ClassName=U_04-multimodal-flash Member=R21
+Removed Member From Class: ClassName=U_04-multimodal-flash Member=R22
+Removed Member From Class: ClassName=U_04-multimodal-flash Member=R23
+Removed Member From Class: ClassName=U_05-multimodal-analogfrontend Member=R26
+Removed Member From Class: ClassName=U_05-multimodal-analogfrontend Member=R29
+Removed Member From Class: ClassName=U_05-multimodal-analogfrontend Member=R44
+Removed Member From Class: ClassName=U_05-multimodal-analogfrontend Member=R45
+Removed Member From Class: ClassName=U_05-multimodal-analogfrontend Member=R46
+Removed Member From Class: ClassName=U_05-multimodal-analogfrontend Member=R47
+Removed Member From Class: ClassName=U_05-multimodal-analogfrontend Member=TP5
+Removed Member From Class: ClassName=U_05-multimodal-analogfrontend Member=TP6
+Change Component Footprint: Designator=U8 Old Footprint=BME280 New Footprint=BME280_FOOTPRINT
+Change Component Footprint: Designator=R20 Old Footprint=RES-STACK-POLE-0402 New Footprint=RES-STACK-POLE-0603
+Change Component Footprint: Designator=R21 Old Footprint=RES-STACK-POLE-0402 New Footprint=RES-STACK-POLE-0603
+Change Component Footprint: Designator=CR3 Old Footprint=SOD-523_STM-L New Footprint=SOD-923_514AB_ONS
+Change Component Comment : Designator=CR3 Old Comment=BAT54KFILM New Comment=ESD9X5.0ST5G
+Change Component Comment : Designator=C26 Old Comment=C1005X5R1V105K050BC New Comment=C1005X7R1H104K050BB
+Change Component Comment : Designator=R22 Old Comment=RMCF0402FT33R0 New Comment=RMCF0402JT220R
+Change Component Comment : Designator=R20 Old Comment=RMCF0402FT33R0 New Comment=RMCF0603JG100K
+Change Component Comment : Designator=R21 Old Comment=RMCF0402FT33R0 New Comment=RMCF0603JG100K
+Change Component Kind : Designator=R41 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=R40 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=R20 Old Kind=Standard New Kind=Standard (No BOM)
+Change component parameters: Designator = "C26" ("C26"); Footprint = "CAPTDK0402"; UniqueID = "\JYOJZEEE\PXRYFAHX" ("\JYOJZEEE\PXRYFAHX")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "445-5932-1-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "CR3" ("CR3"); Footprint = "SOD-523_STM-L"; UniqueID = "\JYOJZEEE\CQKKUPKK" ("\JYOJZEEE\CQKKUPKK")
+Change component parameters (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ESD9X5.0ST5G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "ESD9X5.0ST5G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R20" ("R20"); Footprint = "RES-STACK-POLE-0402"; UniqueID = "\JYOJZEEE\EKPNQRNS" ("\JYOJZEEE\EKPNQRNS")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "RMCF0603JG100KCT-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R21" ("R21"); Footprint = "RES-STACK-POLE-0402"; UniqueID = "\JYOJZEEE\IYKUPFTU" ("\JYOJZEEE\IYKUPFTU")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "RMCF0603JG100KCT-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R22" ("R22"); Footprint = "RES-STACK-POLE-0402"; UniqueID = "\JYOJZEEE\LQMLQBBR" ("\JYOJZEEE\LQMLQBBR")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "RMCF0402JT220RCT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D12(SOD-523_0P9X1P3_ONS-L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.hamamatsu.com/resources/pdf/ssd/s13773_kpin1088e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Hamamatsu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "S15193"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Hamamatsu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part Number"; Value = "S15193"; VariantName = "[No Variations]"
+Added Component: Designator=J10(NTC_connection)
+Added Component: Designator=SW2(TACTILE-SWITCH)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "EG4344CT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ4_3 Pin=C26-1
+Added Pin To Net: NetName=NetJ4_3 Pin=CR3-1
+Added Pin To Net: NetName=GND Pin=CR3-2
+Added Pin To Net: NetName=NetJ4_3 Pin=D12-1
+Added Pin To Net: NetName=GND Pin=J10-2
+Added Pin To Net: NetName=3V3D Pin=R4-2
+Added Pin To Net: NetName=3V3D Pin=R5-2
+Added Pin To Net: NetName=3V3D Pin=R6-2
+Added Pin To Net: NetName=BOOT0_MCU Pin=R20-1
+Added Pin To Net: NetName=3V3D Pin=R20-2
+Added Pin To Net: NetName=GND Pin=R21-1
+Added Pin To Net: NetName=BOOT0_MCU Pin=R21-2
+Added Pin To Net: NetName=GND Pin=R22-1
+Added Pin To Net: NetName=NetD13_1 Pin=R22-2
+Added Pin To Net: NetName=GND Pin=SW1-2
+Added Pin To Net: NetName=GND Pin=SW2-1
+Added Pin To Net: NetName=NetJ4_3 Pin=SW2-2
+Added Pin To Net: NetName=QUAD_SPI_IO2 Pin=U3-C4
+Added Pin To Net: NetName=QUAD_SPI_IO1 Pin=U3-D2
+Added Pin To Net: NetName=QUAD_SPI_IO0 Pin=U3-D3
+Added Pin To Net: NetName=QUAD_SPI_IO3 Pin=U3-D4
+Added Pin To Net: NetName=RED Pin=U5-A3
+Added Pin To Net: NetName=GREEN Pin=U5-B3
+Added Pin To Net: NetName=GREEN Pin=U5-C4
+Change Net Name : Old Net Name=NetJ4_3 New Net Name=RST_MCU
+Added Pin To Net: NetName=NetJ10_1 Pin=J10-1
+Added Pin To Net: NetName=NetJ10_1 Pin=SW1-1
+Added Pin To Net: NetName=NetJ10_1 Pin=U2-D1
+Added Net: Name=NetJ10_1
+Added Pin To Net: NetName=rst_flash Pin=D12-2
+Added Pin To Net: NetName=rst_flash Pin=R6-1
+Added Pin To Net: NetName=rst_flash Pin=U3-A4
+Added Net: Name=rst_flash
+Add Differential Pair: Number of nets in differential pair USB_DN is 1 instead of 2
+Added Member To Class: ClassName=U_07-multimodal-microcontroller Member=Component C26 C1005X7R1H104K050BB
+Added Member To Class: ClassName=U_07-multimodal-microcontroller Member=Component CR3 ESD9X5.0ST5G
+Added Member To Class: ClassName=U_04-multimodal-flash Member=Component D12 RB521S30T1G
+Added Member To Class: ClassName=U_07-multimodal-microcontroller Member=Component D13 Orange
+Added Member To Class: ClassName=U_03-multimodal-battery-charger Member=Component J10 SEMITEC 103AT-11
+Added Member To Class: ClassName=U_04-multimodal-flash Member=Component R6 RMCF0402FT10K0
+Added Member To Class: ClassName=U_07-multimodal-microcontroller Member=Component R20 RMCF0603JG100K
+Added Member To Class: ClassName=U_07-multimodal-microcontroller Member=Component R21 RMCF0603JG100K
+Added Member To Class: ClassName=U_07-multimodal-microcontroller Member=Component R22 RMCF0402JT220R
+Add Class Member: Failed to add class member : Component SH1 MS190-10C
+Added Member To Class: ClassName=U_03-multimodal-battery-charger Member=Component SW1 TL1015AF160QG
+Added Member To Class: ClassName=U_07-multimodal-microcontroller Member=Component SW2 TL1015AF160QG

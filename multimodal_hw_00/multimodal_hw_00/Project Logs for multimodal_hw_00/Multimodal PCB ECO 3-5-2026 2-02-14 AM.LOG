@@ -1,0 +1,19 @@
+Added Component: Designator=U3(BGA5x5_S25FL512SAGBHEA10_INF)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "S25FL512SAGBHEA10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Memory"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3D Pin=U3-A4
+Added Pin To Net: NetName=QUAD_SPI_SCK Pin=U3-B2
+Added Pin To Net: NetName=GND Pin=U3-B3
+Added Pin To Net: NetName=3V3D Pin=U3-B4
+Added Pin To Net: NetName=QUAD_SPI_CSn Pin=U3-C2
+Added Pin To Net: NetName=NetR22_2 Pin=U3-C4
+Added Pin To Net: NetName=NetR21_2 Pin=U3-D2
+Added Pin To Net: NetName=NetR20_2 Pin=U3-D3
+Added Pin To Net: NetName=NetR23_2 Pin=U3-D4
+Added Pin To Net: NetName=3V3D Pin=U3-E4
+Add Differential Pair: Number of nets in differential pair USB_DN is 1 instead of 2
+Add Class Member: Failed to add class member : Component SH1 MS190-10C
+Added Member To Class: ClassName=U_04-multimodal-flash Member=Component U3 S25FL512SAGBHEA10

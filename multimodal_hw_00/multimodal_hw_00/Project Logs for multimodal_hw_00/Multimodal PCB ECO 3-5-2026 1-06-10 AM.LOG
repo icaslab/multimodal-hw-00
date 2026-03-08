@@ -1,0 +1,46 @@
+Change Component Designator: OldDesignator=R? NewDesignator=R44
+Change Component Designator: OldDesignator=R? NewDesignator=R45
+Change Component Designator: OldDesignator=R? NewDesignator=R46
+Change Component Designator: OldDesignator=R? NewDesignator=R47
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR46_2
+Added Pin To Net: NetName=NetR44_2 Pin=R44-2
+Added Pin To Net: NetName=NetR44_2 Pin=U5-E6
+Added Net: Name=NetR44_2
+Added Pin To Net: NetName=NetR45_2 Pin=R45-2
+Added Pin To Net: NetName=NetR45_2 Pin=U5-F6
+Added Net: Name=NetR45_2
+Added Pin To Net: NetName=NetR47_2 Pin=R47-2
+Added Pin To Net: NetName=NetR47_2 Pin=U5-E4
+Added Net: Name=NetR47_2
+Add Differential Pair: Number of nets in differential pair USB_DN is 1 instead of 2
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component C1 CGA3E2C0G1H680J080AA
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component C6 GRM155R61A106ME11D
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component C7 CGA3E2C0G1H330J080AA
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component C8 GRM155R61A106ME11D
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component C9 C1005X5R1A475K050BC
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component C10 CGA3E2C0G1H100D080AA
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component C11 C1005X5R1A475K050BC
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component C12 CL05A225KO5NQNC
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component C14 CL05A225KO5NQNC
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component C18 C1005X5R1V105K050BC
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component C19 GRM155R61A106ME11D
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component C20 C1005X5R1V105K050BC
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component D2 NSR0340V2T1G
+Added Member To Class: ClassName=U_01-multimodal-powersupply Member=Component J2 battery_connection
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component L2 SD3114-4R7-R
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component R4 RMCF0402FT100K
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component R5 RMCF0402FT100K
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component R7 RMCF0603FT475K
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component R8 RC0603FR-07150KL
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component R9 RC0603FR-07270KL
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component R10 RT0603BRD0760KL
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component R14 RMCF0603FT300K
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component R16 RC0603FR-07150KL
+Added Member To Class: ClassName=U_05-multimodal-analogfrontend Member=Component R44 RC0402JR-071KL
+Added Member To Class: ClassName=U_05-multimodal-analogfrontend Member=Component R45 RC0402JR-071KL
+Added Member To Class: ClassName=U_05-multimodal-analogfrontend Member=Component R47 RC0402JR-071KL
+Add Class Member: Failed to add class member : Component SH1 MS190-10C
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component TP1 TESTPOINT_S
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component TP2 TESTPOINT_S
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component TP3 TESTPOINT_S
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component U1 LTC3100EUD#PBF
