@@ -50,6 +50,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=02-multimodal-pmic.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=2
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ZXONBTEK
+
+[Document2]
 DocumentPath=00-multimodal-coversheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -66,7 +83,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OESUVQVV
 
-[Document2]
+[Document3]
 DocumentPath=01-multimodal-powersupply.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -82,23 +99,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AZOYPCKP
-
-[Document3]
-DocumentPath=02-multimodal-pmic.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=2
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ZXONBTEK
 
 [Document4]
 DocumentPath=03-multimodal-battery-charger.SchDoc
@@ -237,23 +237,6 @@ GenerateClassCluster=0
 DocumentUniqueId=TLTNNHCC
 
 [Document12]
-DocumentPath=09-multimodal-microcontroller-switches-display.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=9
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GKOIECVV
-
-[Document13]
 DocumentPath=10-multimodal-microcontroller-rf.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZDMGDEVJ
 
-[Document14]
+[Document13]
 DocumentPath=11-multimodal-combined-sensor.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UWMISRZB
 
-[Document15]
+[Document14]
 DocumentPath=12-multimodal-accelerometer.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KSEYCRWR
 
-[Document16]
+[Document15]
 DocumentPath=13-multimodal-connections.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HBORTLKG
 
-[Document17]
+[Document16]
 DocumentPath=Multimodal.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
