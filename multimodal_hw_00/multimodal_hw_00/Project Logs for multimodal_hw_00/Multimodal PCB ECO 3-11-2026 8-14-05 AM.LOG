@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=J4 Old Footprint=CONN_TC2030-IDC_TGC New Footprint=HARWIN_M20-9980346
+Change Component Comment : Designator=J4 Old Comment=TC2030-IDC New Comment=M20-9980346
+Change component parameters: Designator = "J4" ("J4"); Footprint = "CONN_TC2030-IDC_TGC"; UniqueID = "\TZUFNCLH\INGKDDOV" ("\TZUFNCLH\INGKDDOV")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "M20-9980346"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "952-2121-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Differential Pair: Number of nets in differential pair USB_DN is 1 instead of 2
+Add Class Member: Failed to add class member : Component SH1 MS190-10C
