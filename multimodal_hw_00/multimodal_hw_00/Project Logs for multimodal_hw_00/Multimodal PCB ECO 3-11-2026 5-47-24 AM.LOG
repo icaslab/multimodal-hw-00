@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=ADPD_INTR Pin=U6-15
+Change Component Designator: OldDesignator=1V8D NewDesignator=TP3
+Change Component Designator: OldDesignator=3V3D NewDesignator=TP2
+Change Component Designator: OldDesignator=5V NewDesignator=TP1
+Change Component Designator: OldDesignator=EXT NewDesignator=TP9
+Change Component Designator: OldDesignator=VEXT NewDesignator=J1
+Added Pin To Net: NetName=ADPD_INTR Pin=U6-50
+Add Differential Pair: Number of nets in differential pair USB_DN is 1 instead of 2
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component R8 RC0603FR-07150KL
+Add Class Member: Failed to add class member : Component SH1 MS190-10C
+Added Member To Class: ClassName=U_03-multimodal-battery-charger Member=Component SW1 TL1015AF160QG

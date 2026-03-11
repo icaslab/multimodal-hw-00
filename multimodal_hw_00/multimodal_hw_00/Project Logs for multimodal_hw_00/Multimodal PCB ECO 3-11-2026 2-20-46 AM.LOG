@@ -1,0 +1,72 @@
+Added Component: Designator=U4(ADXL367BCCZ-RL7)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADXL367BCCZ-RL7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "505-ADXL367BCCZ-RL7CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Motion Sensors"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U4-1
+Added Pin To Net: NetName=I2C1_SDA Pin=U4-2
+Added Pin To Net: NetName=VDDIO Pin=U4-3
+Added Pin To Net: NetName=I2C1_SCL Pin=U4-4
+Added Pin To Net: NetName=ACC_INT1 Pin=U4-5
+Added Pin To Net: NetName=ACC_INT2 Pin=U4-6
+Added Pin To Net: NetName=GND Pin=U4-7
+Added Pin To Net: NetName=NetR38_2 Pin=U4-8
+Added Pin To Net: NetName=ACC_VREG_OUT Pin=U4-9
+Added Pin To Net: NetName=VS Pin=U4-10
+Added Pin To Net: NetName=GND Pin=U4-11
+Added Pin To Net: NetName=VDDIO Pin=U4-12
+Add Differential Pair: Number of nets in differential pair USB_DN is 1 instead of 2
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component C1 CGA3E2C0G1H680J080AA
+Added Member To Class: ClassName=U_01-multimodal-powersupply Member=Component C2 GRM31CR60J227ME11K
+Added Member To Class: ClassName=U_01-multimodal-powersupply Member=Component C3 GRM31CR60J227ME11K
+Added Member To Class: ClassName=U_01-multimodal-powersupply Member=Component C4 GRM31CR60J227ME11K
+Added Member To Class: ClassName=U_01-multimodal-powersupply Member=Component C5 GRM31CR60J227ME11K
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component C6 GRM155R61A106ME11D
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component C7 CGA3E2C0G1H330J080AA
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component C8 GRM155R61A106ME11D
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component C9 C1005X5R1A475K050BC
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component C10 CGA3E2C0G1H100D080AA
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component C11 C1005X5R1A475K050BC
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component C12 CL05A225KO5NQNC
+Added Member To Class: ClassName=U_03-multimodal-battery-charger Member=Component C13 C1005X5R1V105K050BC
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component C14 CL05A225KO5NQNC
+Added Member To Class: ClassName=U_03-multimodal-battery-charger Member=Component C15 GRM155R61A106ME11D
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component C18 C1005X5R1V105K050BC
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component C19 GRM155R61A106ME11D
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component C20 C1005X5R1V105K050BC
+Added Member To Class: ClassName=U_03-multimodal-battery-charger Member=Component C63 C1005X5R1V105K050BC
+Added Member To Class: ClassName=U_01-multimodal-powersupply Member=Component D1 DESD3V3S1BL-7B
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component D2 NSR0340V2T1G
+Added Member To Class: ClassName=U_01-multimodal-powersupply Member=Component J1 TH-Connector
+Added Member To Class: ClassName=U_01-multimodal-powersupply Member=Component J2 battery_connection
+Added Member To Class: ClassName=U_03-multimodal-battery-charger Member=Component J10 SEMITEC 103AT-11
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component L1 SD3118-3R3-R
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component L2 SD3114-4R7-R
+Added Member To Class: ClassName=U_01-multimodal-powersupply Member=Component R1 RMCF0603ZT0R00
+Added Member To Class: ClassName=U_01-multimodal-powersupply Member=Component R2 RMCF0402FT100K
+Added Member To Class: ClassName=U_01-multimodal-powersupply Member=Component R3 RMCF0603ZT0R00
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component R4 RMCF0402FT100K
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component R5 RMCF0402FT100K
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component R7 RMCF0603FT475K
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component R8 RC0603FR-07150KL
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component R9 RC0603FR-07270KL
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component R10 RT0603BRD0760KL
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component R11 RMCF0402FT10K0
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component R13 RMCF0402FT10K0
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component R14 RMCF0603FT300K
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component R16 RC0603FR-07150KL
+Added Member To Class: ClassName=U_03-multimodal-battery-charger Member=Component R18 RMCF0603JG10K0
+Added Member To Class: ClassName=U_06-multimodal-analogfrontend-PPG Member=Component R41 RMCF0603ZT0R00
+Add Class Member: Failed to add class member : Component SH1 MS190-10C
+Added Member To Class: ClassName=U_03-multimodal-battery-charger Member=Component SW1 TL1015AF160QG
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component TP1 TESTPOINT_S
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component TP2 TESTPOINT_S
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component TP3 TESTPOINT_S
+Added Member To Class: ClassName=U_01-multimodal-powersupply Member=Component TP9 TESTPOINT_S
+Added Member To Class: ClassName=U_01-multimodal-powersupply Member=Component TP10 TESTPOINT_S
+Added Member To Class: ClassName=U_02-multimodal-pmic Member=Component U1 LTC3100EUD#PBF
+Added Member To Class: ClassName=U_03-multimodal-battery-charger Member=Component U2 BQ21088YBGR
+Added Member To Class: ClassName=U_12-multimodal-accelerometer Member=Component U4 ADXL367BCCZ-RL7
