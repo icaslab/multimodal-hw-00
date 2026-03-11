@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=BIA4 Pin=C25-2
+Removed Pin From Net: NetName=BIA3 Pin=C27-2
+Removed Pin From Net: NetName=NetC27_1 Pin=R34-1
+Removed Pin From Net: NetName=NetC25_1 Pin=R39-1
+Change Component Footprint: Designator=C21 Old Footprint=CAPTDK0603 New Footprint=CAPTDK0402
+Change Component Footprint: Designator=C22 Old Footprint=CAPTDK0603 New Footprint=CAPTDK0402
+Change Component Footprint: Designator=C25 Old Footprint=CAPTDK0603 New Footprint=CAPTDK0402
+Change Component Footprint: Designator=C27 Old Footprint=CAPTDK0603 New Footprint=CAPTDK0402
+Change Component Comment : Designator=C21 Old Comment=CL10B474KA8NFNC New Comment=GRM155R60J474KE19D
+Change Component Comment : Designator=C22 Old Comment=CL10B474KA8NFNC New Comment=GRM155R60J474KE19D
+Change Component Comment : Designator=C25 Old Comment=CL10B474KA8NFNC New Comment=GRM155R60J474KE19D
+Change Component Comment : Designator=C27 Old Comment=CL10B474KA8NFNC New Comment=GRM155R60J474KE19D
+Change component parameters: Designator = "C21" ("C21"); Footprint = "CAPTDK0603"; UniqueID = "\NOBCMHAC\GEMSQKSH" ("\NOBCMHAC\GEMSQKSH")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "GRM155R60J474KE19D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C22" ("C22"); Footprint = "CAPTDK0603"; UniqueID = "\NOBCMHAC\WDUOSZIY" ("\NOBCMHAC\WDUOSZIY")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "GRM155R60J474KE19D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C25" ("C25"); Footprint = "CAPTDK0603"; UniqueID = "\NOBCMHAC\OABXVBOJ" ("\NOBCMHAC\OABXVBOJ")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "GRM155R60J474KE19D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C27" ("C27"); Footprint = "CAPTDK0603"; UniqueID = "\NOBCMHAC\MTTQPCNM" ("\NOBCMHAC\MTTQPCNM")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "GRM155R60J474KE19D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BIA3 Pin=C25-2
+Added Pin To Net: NetName=BIA4 Pin=C27-2
+Added Pin To Net: NetName=NetC25_1 Pin=R34-1
+Added Pin To Net: NetName=NetC27_1 Pin=R39-1
+Add Differential Pair: Number of nets in differential pair USB_DN is 1 instead of 2
+Add Class Member: Failed to add class member : Component SH1 MS190-10C
