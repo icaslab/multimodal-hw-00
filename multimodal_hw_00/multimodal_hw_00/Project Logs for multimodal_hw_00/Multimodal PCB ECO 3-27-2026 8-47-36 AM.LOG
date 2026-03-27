@@ -1,0 +1,14 @@
+Added Pin To Net: NetName=1V8A Pin=C11-1
+Added Pin To Net: NetName=3V3_LED Pin=C12-1
+Added Pin To Net: NetName=1V8D Pin=C13-1
+Added Pin To Net: NetName=5V_LED Pin=FB1-2
+Added Pin To Net: NetName=5V_LED Pin=FB2-2
+Added Pin To Net: NetName=1V8D Pin=L10-1
+Added Pin To Net: NetName=1V8A Pin=TP11-1
+Added Pin To Net: NetName=3V3_LED Pin=TP12-1
+Added Pin To Net: NetName=1V8D Pin=TP13-1
+Added Pin To Net: NetName=3V3_LED Pin=U1-A5
+Added Pin To Net: NetName=1V8D Pin=U1-F2
+Added Pin To Net: NetName=1V8A Pin=U1-G3
+Add Differential Pair: Number of nets in differential pair USB_DN is 1 instead of 2
+Add Class Member: Failed to add class member : Component SH1 MS190-10C

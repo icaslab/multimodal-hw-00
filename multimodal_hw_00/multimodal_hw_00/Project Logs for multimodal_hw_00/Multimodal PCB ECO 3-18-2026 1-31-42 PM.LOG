@@ -1,0 +1,12 @@
+Added Component: Designator=U10(21-100260_W563H3+1_ADI)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MAX20345KEWN+T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U10-D4
+Added Pin To Net: NetName=GND Pin=U10-D5
+Added Pin To Net: NetName=GND Pin=U10-G7
+Add Differential Pair: Number of nets in differential pair USB_DN is 1 instead of 2
+Add Class Member: Failed to add class member : Component SH1 MS190-10C
+Added Member To Class: ClassName=U_01-multimodal-powersupply Member=Component U10 MAX20345KEWN+T

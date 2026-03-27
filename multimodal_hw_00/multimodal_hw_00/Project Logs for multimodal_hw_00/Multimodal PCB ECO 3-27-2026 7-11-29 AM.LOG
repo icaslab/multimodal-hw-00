@@ -1,0 +1,56 @@
+Change Physical Footprint: Designator=C10 Old Footprint=CAPTDK0603 New Footprint=CAPTDK0603
+Change Physical Footprint: Designator=C11 Old Footprint=CAPTDK0402 New Footprint=CAPTDK0402
+Change Physical Footprint: Designator=C21 Old Footprint=CAPTDK0402 New Footprint=CAPTDK0402
+Change Physical Footprint: Designator=C22 Old Footprint=CAPTDK0402 New Footprint=CAPTDK0402
+Change Physical Footprint: Designator=C24 Old Footprint=CAPTDK0402 New Footprint=CAPTDK0402
+Change Physical Footprint: Designator=C25 Old Footprint=CAPTDK0402 New Footprint=CAPTDK0402
+Change Physical Footprint: Designator=C27 Old Footprint=CAPTDK0402 New Footprint=CAPTDK0402
+Change Physical Footprint: Designator=C31 Old Footprint=CAPTDK0402 New Footprint=CAPTDK0402
+Change Physical Footprint: Designator=C35 Old Footprint=CAPTDK0402 New Footprint=CAPTDK0402
+Change Physical Footprint: Designator=C50 Old Footprint=CAPTDK0402 New Footprint=CAPTDK0402
+Change Physical Footprint: Designator=C51 Old Footprint=CAPTDK0402 New Footprint=CAPTDK0402
+Change Physical Footprint: Designator=C52 Old Footprint=CAPTDK0402 New Footprint=CAPTDK0402
+Change Physical Footprint: Designator=C53 Old Footprint=CAPTDK0402 New Footprint=CAPTDK0402
+Change Physical Footprint: Designator=CR2 Old Footprint=ZDO_1610_STM-M New Footprint=ZDO_1610_STM-M
+Change Physical Footprint: Designator=CR3 Old Footprint=SOD-923_514AB_ONS New Footprint=SOD-923_514AB_ONS
+Change Physical Footprint: Designator=D3 Old Footprint=LED_SFH 2703_OSR New Footprint=LED_SFH 2703_OSR
+Change Physical Footprint: Designator=D4 Old Footprint=LXZ1-PR01 New Footprint=LXZ1-PR01
+Change Physical Footprint: Designator=D5 Old Footprint=LXZ1-PR01 New Footprint=LXZ1-PR01
+Change Physical Footprint: Designator=D8 Old Footprint=CT DBLP31.12-6C5D-56-J6Q4_OSR New Footprint=CT DBLP31.12-6C5D-56-J6Q4_OSR
+Change Physical Footprint: Designator=D9 Old Footprint=SFH 7015_OSR New Footprint=SFH 7015_OSR
+Change Physical Footprint: Designator=D10 Old Footprint=LED_SFH 2703_OSR New Footprint=LED_SFH 2703_OSR
+Change Physical Footprint: Designator=D11 Old Footprint=LED_SFH 2703_OSR New Footprint=LED_SFH 2703_OSR
+Change Physical Footprint: Designator=D12 Old Footprint=SOD-523_0P9X1P3_ONS-L New Footprint=SOD-523_0P9X1P3_ONS-L
+Change Physical Footprint: Designator=FB1 Old Footprint=INDMURT0603 New Footprint=INDMURT0603
+Change Physical Footprint: Designator=FB2 Old Footprint=INDMURT0603 New Footprint=INDMURT0603
+Change Physical Footprint: Designator=FB3 Old Footprint=INDMURT0603 New Footprint=INDMURT0603
+Change Physical Footprint: Designator=FB4 Old Footprint=INDMURT0603 New Footprint=INDMURT0603
+Change Physical Footprint: Designator=FB5 Old Footprint=INDMURT0603 New Footprint=INDMURT0603
+Change Physical Footprint: Designator=J3 Old Footprint=2171790001_MOL New Footprint=2171790001_MOL
+Change Physical Footprint: Designator=J6 Old Footprint=electrode New Footprint=electrode
+Change Physical Footprint: Designator=J7 Old Footprint=electrode New Footprint=electrode
+Change Physical Footprint: Designator=J8 Old Footprint=electrode New Footprint=electrode
+Change Physical Footprint: Designator=J9 Old Footprint=electrode New Footprint=electrode
+Change Physical Footprint: Designator=L5 Old Footprint=INDTDK0201 New Footprint=INDTDK0201
+Change Physical Footprint: Designator=R3 Old Footprint=RES-STACK-POLE-0603 New Footprint=RES-STACK-POLE-0603
+Change Physical Footprint: Designator=R6 Old Footprint=RES-STACK-POLE-0402 New Footprint=RES-STACK-POLE-0402
+Change Physical Footprint: Designator=R7 Old Footprint=RES-STACK-POLE-0603 New Footprint=RES-STACK-POLE-0603
+Change Physical Footprint: Designator=R10 Old Footprint=RES-STACK-POLE-0603 New Footprint=RES-STACK-POLE-0603
+Change Physical Footprint: Designator=R11 Old Footprint=RES-STACK-POLE-0402 New Footprint=RES-STACK-POLE-0402
+Change Physical Footprint: Designator=R17 Old Footprint=RES-STACK-POLE-0603 New Footprint=RES-STACK-POLE-0603
+Change Physical Footprint: Designator=R20 Old Footprint=RES-STACK-POLE-0603 New Footprint=RES-STACK-POLE-0603
+Change Physical Footprint: Designator=R21 Old Footprint=RES-STACK-POLE-0603 New Footprint=RES-STACK-POLE-0603
+Change Physical Footprint: Designator=R22 Old Footprint=RES-STACK-POLE-0402 New Footprint=RES-STACK-POLE-0402
+Change Physical Footprint: Designator=R25 Old Footprint=RES-STACK-POLE-0603 New Footprint=RES-STACK-POLE-0603
+Change Physical Footprint: Designator=R34 Old Footprint=RES-STACK-POLE-0603 New Footprint=RES-STACK-POLE-0603
+Change Physical Footprint: Designator=R35 Old Footprint=RES-STACK-POLE-0603 New Footprint=RES-STACK-POLE-0603
+Change Physical Footprint: Designator=R36 Old Footprint=RES-STACK-POLE-0402 New Footprint=RES-STACK-POLE-0402
+Change Physical Footprint: Designator=R37 Old Footprint=RES-STACK-POLE-0402 New Footprint=RES-STACK-POLE-0402
+Change Physical Footprint: Designator=R39 Old Footprint=RES-STACK-POLE-0603 New Footprint=RES-STACK-POLE-0603
+Change Physical Footprint: Designator=R40 Old Footprint=RES-STACK-POLE-0603 New Footprint=RES-STACK-POLE-0603
+Change Physical Footprint: Designator=R41 Old Footprint=RES-STACK-POLE-0603 New Footprint=RES-STACK-POLE-0603
+Change Physical Footprint: Designator=TP4 Old Footprint=TESTPOINT_S New Footprint=TESTPOINT_S
+Change Physical Footprint: Designator=U3 Old Footprint=BGA5x5_S25FL512SAGBHEA10_INF New Footprint=BGA5x5_S25FL512SAGBHEA10_INF
+Change Physical Footprint: Designator=U5 Old Footprint=ADPD7001_36-WLCSP New Footprint=ADPD7001_36-WLCSP
+Change Physical Footprint: Designator=U6 Old Footprint=STM32WB55RG New Footprint=STM32WB55RG
+Change Physical Footprint: Designator=U8 Old Footprint=BME280_FOOTPRINT New Footprint=BME280_FOOTPRINT

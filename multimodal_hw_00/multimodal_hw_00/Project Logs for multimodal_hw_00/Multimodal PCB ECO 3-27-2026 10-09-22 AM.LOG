@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetJ1_2 Pin=U6-54
+Removed Pin From Net: NetName=NetJ1_4 Pin=U6-56
+Change Component Designator: OldDesignator=VIN NewDesignator=TP3
+Added Pin To Net: NetName=NetJ1_4 Pin=U6-54
+Added Pin To Net: NetName=NetJ1_2 Pin=U6-56
+Add Differential Pair: Number of nets in differential pair USB_DN is 1 instead of 2
+Add Class Member: Failed to add class member : Component SH1 MS190-10C
