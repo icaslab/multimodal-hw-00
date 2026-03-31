@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=SC3-S1-1
+Removed Pin From Net: NetName=GND Pin=SC3-S1-2
+Removed Pin From Net: NetName=GND Pin=SC3-S1-3
+Removed Pin From Net: NetName=GND Pin=SC3-S1-4
+Removed Pin From Net: NetName=GND Pin=SC3-S1-5
+Removed Member From Class: ClassName=U_10-multimodal-microcontroller-rf Member=SC3
+Added Pin To Net: NetName=ISET Pin=TP9-1
+Add Differential Pair: Number of nets in differential pair USB_DN is 1 instead of 2
+Add Class Member: Failed to add class member : Component SH1 MS190-10C

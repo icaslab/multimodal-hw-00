@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=GND Pin=SC1-S2-1
+Removed Pin From Net: NetName=GND Pin=SC1-S2-2
+Removed Pin From Net: NetName=GND Pin=SC1-S2-3
+Removed Pin From Net: NetName=GND Pin=SC1-S2-4
+Removed Pin From Net: NetName=GND Pin=SC1-S2-5
+Removed Pin From Net: NetName=GND Pin=SC1-S3-1
+Removed Pin From Net: NetName=GND Pin=SC1-S3-2
+Removed Pin From Net: NetName=GND Pin=SC1-S3-3
+Removed Pin From Net: NetName=GND Pin=SC1-S3-4
+Removed Pin From Net: NetName=GND Pin=SC1-S3-5
+Added Component: Designator=SC2(RF-SHIELD+CLIP)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "952-2669-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=SC3(RF-SHIELD+CLIP)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "952-2669-1-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=SC2-S1-1
+Added Pin To Net: NetName=GND Pin=SC2-S1-2
+Added Pin To Net: NetName=GND Pin=SC2-S1-3
+Added Pin To Net: NetName=GND Pin=SC2-S1-4
+Added Pin To Net: NetName=GND Pin=SC2-S1-5
+Added Pin To Net: NetName=GND Pin=SC3-S1-1
+Added Pin To Net: NetName=GND Pin=SC3-S1-2
+Added Pin To Net: NetName=GND Pin=SC3-S1-3
+Added Pin To Net: NetName=GND Pin=SC3-S1-4
+Added Pin To Net: NetName=GND Pin=SC3-S1-5
+Add Pin To Net: Unknown Pin: Pin TP9-1
+Add Differential Pair: Number of nets in differential pair USB_DN is 1 instead of 2
+Added Member To Class: ClassName=U_10-multimodal-microcontroller-rf Member=Component SC2 S0951-46R
+Added Member To Class: ClassName=U_10-multimodal-microcontroller-rf Member=Component SC3 S0951-46R
+Add Class Member: Failed to add class member : Component SH1 MS190-10C

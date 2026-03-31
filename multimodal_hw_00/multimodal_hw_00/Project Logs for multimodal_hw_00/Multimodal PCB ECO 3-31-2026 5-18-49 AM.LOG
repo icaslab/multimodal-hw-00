@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GD_BIAS Pin=TP1-1
+Removed Member From Class: ClassName=U_05-multimodal-analogfrontend Member=TP1
+Change Component Designator: OldDesignator=1V8A NewDesignator=TP11
+Change Component Designator: OldDesignator=1V8D NewDesignator=TP13
+Change Component Designator: OldDesignator=ISET NewDesignator=TP9
+Add Differential Pair: Number of nets in differential pair USB_DN is 1 instead of 2
+Add Class Member: Failed to add class member : Component SH1 MS190-10C
