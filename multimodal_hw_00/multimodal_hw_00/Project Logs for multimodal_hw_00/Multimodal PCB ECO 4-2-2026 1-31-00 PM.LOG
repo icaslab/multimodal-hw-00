@@ -1,0 +1,13 @@
+Change Physical Footprint: Designator=AE1 Old Footprint=ANTENNA New Footprint=ANTENNA
+Change Physical Footprint: Designator=CR3 Old Footprint=SOD-923_514AB_ONS New Footprint=SOD-923_514AB_ONS
+Change Physical Footprint: Designator=D10 Old Footprint=LED_SFH 2703_OSR New Footprint=LED_SFH 2703_OSR
+Change Physical Footprint: Designator=D12 Old Footprint=SOD-523_0P9X1P3_ONS-L New Footprint=SOD-523_0P9X1P3_ONS-L
+Change Physical Footprint: Designator=L7 Old Footprint=IND_DFE2016_MUR-L New Footprint=IND_DFE2016_MUR-L
+Change Physical Footprint: Designator=L9 Old Footprint=IND_DFE2016_MUR-L New Footprint=IND_DFE2016_MUR-L
+Change Physical Footprint: Designator=L10 Old Footprint=IND_DFE2016_MUR-L New Footprint=IND_DFE2016_MUR-L
+Change Physical Footprint: Designator=R12 Old Footprint=RES-STACK-POLE-0402 New Footprint=RES-STACK-POLE-0402
+Change Physical Footprint: Designator=R13 Old Footprint=RES-STACK-POLE-0402 New Footprint=RES-STACK-POLE-0402
+Change Physical Footprint: Designator=R37 Old Footprint=RES-STACK-POLE-0402 New Footprint=RES-STACK-POLE-0402
+Change Physical Footprint: Designator=SWD Old Footprint=CONN_GRBP032_SUL New Footprint=CONN_GRBP032_SUL
+Change Physical Footprint: Designator=U1 Old Footprint=21-100260_W563H3+1_ADI New Footprint=21-100260_W563H3+1_ADI
+Change Physical Footprint: Designator=U3 Old Footprint=BGA5x5_S25FL512SAGBHEA10_INF New Footprint=BGA5x5_S25FL512SAGBHEA10_INF
