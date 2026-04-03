@@ -1,0 +1,5 @@
+Change Physical Footprint: Designator=J6 Old Footprint=electrode New Footprint=electrode
+Change Physical Footprint: Designator=J7 Old Footprint=electrode New Footprint=electrode
+Change Physical Footprint: Designator=J8 Old Footprint=electrode New Footprint=electrode
+Change Physical Footprint: Designator=J9 Old Footprint=electrode New Footprint=electrode
+Change Physical Footprint: Designator=U8 Old Footprint=BME280_FOOTPRINT New Footprint=BME280_FOOTPRINT
