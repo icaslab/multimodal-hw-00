@@ -1,0 +1,5 @@
+Change Physical Footprint: Designator=AE1 Old Footprint=ANTENNA New Footprint=ANTENNA
+Change Physical Footprint: Designator=D3 Old Footprint=LED_SFH 2703_OSR New Footprint=LED_SFH 2703_OSR
+Change Physical Footprint: Designator=L7 Old Footprint=IND_DFE2016_MUR-L New Footprint=IND_DFE2016_MUR-L
+Change Physical Footprint: Designator=L9 Old Footprint=IND_DFE2016_MUR-L New Footprint=IND_DFE2016_MUR-L
+Change Physical Footprint: Designator=L10 Old Footprint=IND_DFE2016_MUR-L New Footprint=IND_DFE2016_MUR-L
