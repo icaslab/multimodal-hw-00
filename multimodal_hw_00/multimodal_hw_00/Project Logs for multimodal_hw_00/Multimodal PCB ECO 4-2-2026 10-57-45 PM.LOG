@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GD_BIAS Pin=C18-1
+Removed Pin From Net: NetName=GD_BIAS Pin=R12-1
+Removed Pin From Net: NetName=GD_BIAS Pin=R13-2
+Removed Pin From Net: NetName=GD_BIAS Pin=TP1-1
+Added Pin To Net: NetName=GD_BIAS_2 Pin=C18-1
+Added Pin To Net: NetName=GD_BIAS_2 Pin=R12-1
+Added Pin To Net: NetName=GD_BIAS_2 Pin=R13-2
+Added Pin To Net: NetName=GD_BIAS_2 Pin=TP1-1
+Added Net: Name=GD_BIAS_2
+Add Differential Pair: Number of nets in differential pair USB_DN is 1 instead of 2
+Add Class Member: Failed to add class member : Component SH1 MS190-10C

@@ -1,0 +1,4 @@
+Change Physical Footprint: Designator=D9 Old Footprint=SFH 7015_OSR New Footprint=SFH 7015_OSR
+Change Physical Footprint: Designator=U3 Old Footprint=BGA5x5_S25FL512SAGBHEA10_INF New Footprint=BGA5x5_S25FL512SAGBHEA10_INF
+Change Physical Footprint: Designator=U7 Old Footprint=Matched-Filter-2.4GHz New Footprint=Matched-Filter-2.4GHz
+Change Physical Footprint: Designator=U8 Old Footprint=BME280_FOOTPRINT New Footprint=BME280_FOOTPRINT

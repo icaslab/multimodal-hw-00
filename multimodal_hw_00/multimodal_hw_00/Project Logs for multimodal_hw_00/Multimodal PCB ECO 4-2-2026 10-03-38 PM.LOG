@@ -1,0 +1,14 @@
+Added Component: Designator=C19(CAPTDK0402)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "445-5585-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C20(CAPTDK0402)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "445-5585-1-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=HSE_IN Pin=C19-1
+Added Pin To Net: NetName=GND Pin=C19-2
+Added Pin To Net: NetName=HSE_OUT Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C20-2
+Add Differential Pair: Number of nets in differential pair USB_DN is 1 instead of 2
+Added Member To Class: ClassName=U_08-multimodal-microcontroller-oscillators Member=Component C19 CGA2B2C0G1H120J050BA
+Added Member To Class: ClassName=U_08-multimodal-microcontroller-oscillators Member=Component C20 CGA2B2C0G1H120J050BA
+Add Class Member: Failed to add class member : Component SH1 MS190-10C
