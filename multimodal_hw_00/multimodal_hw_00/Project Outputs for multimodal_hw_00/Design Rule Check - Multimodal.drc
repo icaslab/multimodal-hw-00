@@ -1,18 +1,18 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\isili\OneDrive\Desktop\multimodal-hw-00\multimodal_hw_00\multimodal_hw_00\Multimodal.PcbDoc
 Date     : 4/3/2026
-Time     : 6:23:34 PM
+Time     : 7:03:32 PM
 
-Processing Rule : Clearance Constraint (Gap=0mm) (Keepout),(All)
+Processing Rule : Clearance Constraint (Gap=0mil) (Keepout),(All)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=0.076mm) (IsMicroVia),(All)
+Processing Rule : Clearance Constraint (Gap=3mil) (IsMicroVia),(All)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=0.076mm) (IsBlindVia),(All)
+Processing Rule : Clearance Constraint (Gap=3mil) (IsBlindVia),(All)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=0.127mm) (All),(All)
+Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
@@ -24,81 +24,81 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=0.102mm) (Max=1816.048mm) (Preferred=0.102mm) (All)
+Processing Rule : Width Constraint (Min=4mil) (Max=71497.938mil) (Preferred=4mil) (All)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=0.152mm) (Max=25.4mm) (Preferred=0.152mm) (All)
+Processing Rule : Width Constraint (Min=6mil) (Max=1000mil) (Preferred=6mil) (All)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=0.076mm) (Max=1.27mm) (Preferred=0.254mm) (All)
+Processing Rule : Width Constraint (Min=3mil) (Max=50mil) (Preferred=10mil) (All)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=0.254mm) (Max=25.4mm) (Preferred=0.305mm) (All)
+Processing Rule : Width Constraint (Min=10mil) (Max=1000mil) (Preferred=12mil) (All)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=0.254mm) (Max=25.4mm) (Preferred=0.508mm) (All)
+Processing Rule : Width Constraint (Min=10mil) (Max=1000mil) (Preferred=20mil) (All)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=0.254mm) (Max=25.4mm) (Preferred=0.254mm) (All)
+Processing Rule : Width Constraint (Min=10mil) (Max=1000mil) (Preferred=10mil) (All)
 Rule Violations :0
 
 Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
 Rule Violations :0
 
-Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (InPadClass('PowerPads'))
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (InPadClass('PowerPads'))
 Rule Violations :0
 
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.3mm) (Conductor Width=0.102mm) (Air Gap=0.102mm) (Entries=4) (All)
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=11.811mil) (Conductor Width=4mil) (Air Gap=4mil) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Minimum Annular Ring (Minimum=0.051mm) (IsVia)
+Processing Rule : Minimum Annular Ring (Minimum=2mil) (IsVia)
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=0.1mm) (Max=6.3mm) (All)
+Processing Rule : Hole Size Constraint (Min=3.937mil) (Max=248.031mil) (All)
 Rule Violations :0
 
-Processing Rule : Hole To Hole Clearance (Gap=0.2mm) (All),(All)
+Processing Rule : Hole To Hole Clearance (Gap=7.874mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) (IsVia),(All)
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (IsVia),(All)
 Rule Violations :0
 
-Processing Rule : Minimum Solder Mask Sliver (Gap=0.051mm) (All),(All)
+Processing Rule : Minimum Solder Mask Sliver (Gap=2mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Silk To Solder Mask (Clearance=0.051mm) (IsPad),(All)
+Processing Rule : Silk To Solder Mask (Clearance=2mil) (IsPad),(All)
 Rule Violations :0
 
-Processing Rule : Silk to Silk (Clearance=0.127mm) (All),(All)
+Processing Rule : Silk to Silk (Clearance=5mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
 Rule Violations :0
 
-Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
+Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
 Rule Violations :0
 
-Processing Rule : Matched Lengths(Tolerance=0.254mm) (InNetClass('FLASH_QUAD_SPI'))
+Processing Rule : Matched Lengths(Tolerance=10mil) (InNetClass('FLASH_QUAD_SPI'))
 Rule Violations :0
 
-Processing Rule : Height Constraint (Min=0mm) (Max=1816.048mm) (Prefered=12.7mm) (All)
+Processing Rule : Height Constraint (Min=0mil) (Max=71497.938mil) (Prefered=500mil) (All)
 Rule Violations :0
 
 PCB Health Issue Category : Duplicate Component Designators
-   Duplicated Designators: SMT Small Component GND-TESTPOINT_S (137.525mm,75.008mm) on L1_TOP
-   Duplicated Designators: SMT Small Component GND-TESTPOINT_S (128.877mm,106.818mm) on L1_TOP
-   Duplicated Designators: SMT Small Component GND-TESTPOINT_S (141.904mm,108.998mm) on L1_TOP
+   Duplicated Designators: SMT Small Component GND-TESTPOINT_S (5414.378mil,2953.086mil) on L1_TOP
+   Duplicated Designators: SMT Small Component GND-TESTPOINT_S (5073.903mil,4205.428mil) on L1_TOP
+   Duplicated Designators: SMT Small Component GND-TESTPOINT_S (5586.785mil,4291.267mil) on L1_TOP
 Issues :3
 
 PCB Health Issue Category : Slots Hole Size > Length
-   Slot holes size > length: Pad J3-15(121.357mm,111.419mm) on Multi-Layer
-   Slot holes size > length: Pad J3-16(121.357mm,102.779mm) on Multi-Layer
-   Slot holes size > length: Pad J3-13(117.357mm,111.419mm) on Multi-Layer
-   Slot holes size > length: Pad J3-14(117.357mm,102.779mm) on Multi-Layer
+   Slot holes size > length: Pad J3-15(4777.846mil,4386.574mil) on Multi-Layer
+   Slot holes size > length: Pad J3-16(4777.846mil,4046.416mil) on Multi-Layer
+   Slot holes size > length: Pad J3-13(4620.365mil,4386.574mil) on Multi-Layer
+   Slot holes size > length: Pad J3-14(4620.365mil,4046.416mil) on Multi-Layer
 Issues :4
 
 
 Violations Detected : 0
 Waived Violations : 0
 PCB Health Issues : 7
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:00

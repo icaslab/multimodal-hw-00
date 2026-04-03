@@ -1,8 +1,8 @@
 Board Information Report
 Filename     : C:\Users\isili\OneDrive\Desktop\multimodal-hw-00\multimodal_hw_00\multimodal_hw_00\Multimodal.PcbDoc
 Date         : 4/3/2026
-Time         : 6:20:09 PM
-Time Elapsed : 00:00:01
+Time         : 6:32:59 PM
+Time Elapsed : 00:00:00
 
 General
     Board Size, 30.0432mmx54.5911mm
