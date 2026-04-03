@@ -1,80 +1,83 @@
 Board Information Report
 Filename     : C:\Users\isili\OneDrive\Desktop\multimodal-hw-00\multimodal_hw_00\multimodal_hw_00\Multimodal.PcbDoc
-Date         : 4/2/2026
-Time         : 11:45:11 AM
-Time Elapsed : 00:00:00
+Date         : 4/3/2026
+Time         : 6:20:09 PM
+Time Elapsed : 00:00:01
 
 General
-    Board Size, 1179.282milsx2142.696mils
-    Components on board, 153
+    Board Size, 30.0432mmx54.5911mm
+    Components on board, 156
 count : 2
 
 Routing Information
-    Routing completion, 48.60%
-    Connections, 358
-    Connections routed, 174
-    Connections remaining, 184
+    Routing completion, 100.00%
+    Connections, 364
+    Connections routed, 364
+    Connections remaining, 0
 count : 4
 
 Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
-    L1_TOP, 56, 437, 0, 1121, 1, 0, 193, 0
-    L2_GND, 0, 0, 0, 0, 0, 0, 1, 0
-    L3_Signal, 0, 0, 0, 85, 0, 0, 1, 0
-    L4_PWR, 0, 0, 0, 70, 0, 0, 2, 0
-    L5_GND, 0, 0, 0, 0, 0, 0, 1, 0
-    L6_BOTTOM, 0, 78, 0, 317, 0, 0, 50, 0
-    Mechanical 1, 0, 0, 0, 0, 0, 0, 0, 12
-    Top 3D Body, 0, 0, 0, 163, 0, 0, 0, 3
-    Top Courtyard, 0, 0, 0, 36, 0, 0, 0, 0
-    Top Assembly, 1, 0, 0, 20, 3, 0, 0, 83
+    L1_TOP, 59, 444, 0, 1286, 0, 0, 557, 0
+    L2_GND, 0, 0, 0, 0, 0, 0, 5, 0
+    L3_Signal, 0, 0, 0, 118, 0, 0, 36, 0
+    L4_PWR, 0, 0, 0, 80, 0, 0, 14, 0
+    L5_GND, 0, 0, 0, 0, 0, 0, 5, 0
+    L6_BOTTOM, 5, 78, 0, 347, 0, 0, 149, 0
+    Mechanical 1, 0, 0, 0, 0, 0, 0, 0, 11
+    Top 3D Body, 0, 0, 0, 167, 0, 0, 0, 4
+    Top Courtyard, 0, 0, 0, 42, 0, 0, 0, 0
+    Filling, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Assembly, 2, 0, 0, 24, 4, 0, 0, 83
+    Capping, 0, 0, 0, 0, 0, 0, 0, 0
     Top Designator, 0, 0, 0, 0, 3, 0, 0, 0
     Bottom Designator, 0, 0, 0, 0, 0, 0, 0, 0
-    Mechanical 13, 14, 0, 0, 569, 138, 0, 0, 0
-    Mechanical 15, 4, 0, 0, 129, 4, 0, 5, 0
+    Mechanical 13, 13, 0, 0, 567, 137, 0, 0, 1
+    Mechanical 15, 4, 0, 0, 125, 4, 0, 4, 0
+    Top Component Center, 0, 0, 0, 2, 0, 0, 0, 0
     Bottom Assembly, 0, 0, 0, 0, 0, 0, 0, 28
     Bottom Courtyard, 0, 0, 0, 0, 0, 0, 0, 0
     Bottom 3D Body, 0, 0, 0, 0, 0, 0, 0, 0
-    Multi-Layer, 0, 6, 438, 0, 0, 0, 1, 0
+    Bottom Component Center, 0, 0, 0, 0, 0, 0, 0, 0
+    Multi-Layer, 0, 6, 563, 0, 0, 0, 1, 0
     Top Paste, 0, 0, 0, 0, 0, 0, 25, 0
-    Top Overlay, 9, 0, 0, 141, 262, 0, 85, 0
+    Top Overlay, 8, 0, 0, 123, 266, 0, 86, 0
     Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
     Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
-    Bottom Overlay, 11, 0, 0, 45, 77, 0, 0, 0
+    Bottom Overlay, 10, 0, 0, 44, 77, 0, 9, 0
     Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
     Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
-    Keep-Out Layer, 0, 0, 0, 0, 0, 0, 1, 0
+    Keep-Out Layer, 0, 0, 0, 0, 0, 0, 0, 0
     Drill Drawing, 0, 0, 0, 0, 0, 0, 0, 0
-count : 27
+count : 31
 
 Drill Pairs, Vias
-    L1_TOP - L6_BOTTOM, 374
-    L1_TOP - L3_Signal, 30
+    L1_TOP - L6_BOTTOM, 500
     L1_TOP - L4_PWR, 21
+    L1_TOP - L3_Signal, 30
     L1_TOP - L2_GND, 12
-    L5_GND - L6_BOTTOM, 1
-count : 5
+count : 4
 
 Layer, Sq.In., Sq.MM., Percent of layer
-    L1_TOP, 0.756, 487.506, 30%
-    L2_GND, 0.102, 66.099, 4%
-    L3_Signal, 0.118, 76.05, 5%
-    L4_PWR, 0.386, 249.195, 15%
-    L5_GND, 0.097, 62.524, 4%
-    L6_BOTTOM, 0.235, 151.808, 9%
+    L1_TOP, 1.907, 1230.541, 75%
+    L2_GND, 2.349, 1515.393, 92%
+    L3_Signal, 2.31, 1490.476, 91%
+    L4_PWR, 2.158, 1392.448, 85%
+    L5_GND, 2.361, 1523.259, 93%
+    L6_BOTTOM, 2.239, 1444.676, 88%
 count : 6
 
 Non-Plated Hole Size, Pads, Vias
 count : 0
 
 Plated Hole Size, Pads, Vias
-    0mils, 515, 0
-    3.937mils, 0, 49
-    5.906mils, 0, 133
-    7.874mils, 0, 101
-    9.843mils, 0, 73
-    10mils, 0, 52
-    12mils, 0, 30
-    43.307mils, 2, 0
+    0mm, 522, 0
+    0.1mm, 0, 48
+    0.15mm, 0, 180
+    0.2mm, 0, 254
+    0.25mm, 0, 3
+    0.254mm, 0, 48
+    0.3048mm, 0, 30
+    1.1mm, 2, 0
 count : 8
 
 Non-Plated Slot Size / Length, Pads
@@ -92,179 +95,186 @@ Plated Square Hole Size, Pads
 count : 0
 
 Top Layer Annular Ring Size, Count
-    -32mils, 2
-    -16mils, 2
-    5.906mils, 69
-    7.874mils, 186
-    8mils, 30
-    9.843mils, 101
-    10mils, 52
-    19.685mils, 2
+    -0.8128mm, 2
+    -0.4064mm, 2
+    0.15mm, 68
+    0.2mm, 163
+    0.2032mm, 30
+    0.25mm, 254
+    0.254mm, 48
+    0.5mm, 2
 count : 8
 
 Mid Layer Annular Ring Size, Count
-    -32mils, 2
-    -16mils, 2
-    5.906mils, 69
-    7.874mils, 186
-    8mils, 30
-    9.843mils, 101
-    10mils, 52
-    19.685mils, 2
+    -0.8128mm, 2
+    -0.4064mm, 2
+    0.15mm, 68
+    0.2mm, 163
+    0.2032mm, 30
+    0.25mm, 254
+    0.254mm, 48
+    0.5mm, 2
 count : 8
 
 Bottom Layer Annular Ring Size, Count
-    -32mils, 2
-    -16mils, 2
-    5.906mils, 69
-    7.874mils, 186
-    8mils, 30
-    9.843mils, 101
-    10mils, 52
-    19.685mils, 2
+    -0.8128mm, 2
+    -0.4064mm, 2
+    0.15mm, 68
+    0.2mm, 163
+    0.2032mm, 30
+    0.25mm, 254
+    0.254mm, 48
+    0.5mm, 2
 count : 8
 
 Pad Solder Mask, Count
-    -43.5mils, 2
-    -35.5mils, 2
-    0mils, 131
-    1mils, 36
-    1.969mils, 11
-    2mils, 325
-    2.756mils, 6
-    3.937mils, 8
-count : 8
+    -1.1049mm, 2
+    -0.9017mm, 2
+    0mm, 35
+    0.01mm, 56
+    0.02mm, 79
+    0.0254mm, 36
+    0.05mm, 35
+    0.0508mm, 269
+    0.07mm, 6
+    0.1mm, 8
+count : 10
 
 Pad Paste Mask, Count
-    -128mils, 1
-    0mils, 520
+    -3.2512mm, 1
+    0mm, 527
 count : 2
 
 Pad Pwr/Gnd Expansion, Count
-    4mils, 521
+    0.1016mm, 528
 count : 1
 
 Pad Relief Conductor Width, Count
-    4mils, 521
+    0.1016mm, 528
 count : 1
 
 Pad Relief Air Gap, Count
-    4mils, 521
+    0.1016mm, 528
 count : 1
 
 Pad Relief Entries, Count
-    4, 521
+    4, 528
 count : 1
 
 Via Solder Mask, Count
-    4mils, 438
-count : 1
+    0.0508mm, 124
+    0.1016mm, 439
+count : 2
 
 Via Pwr/Gnd Expansion, Count
-    4mils, 438
+    0.1016mm, 563
 count : 1
 
 Track Width, Count
-    1mils, 131
-    3mils, 183
-    3.81mils, 14
-    3.89mils, 19
-    3.937mils, 12
-    4mils, 40
-    4.31mils, 555
-    4.32mils, 47
-    4.71mils, 9
-    5mils, 489
-    5.628mils, 57
-    6mils, 260
-    7mils, 67
-    7.874mils, 8
-    8mils, 28
-    10mils, 360
-    12mils, 1
-    15mils, 208
-    20mils, 123
-    25mils, 16
-    30mils, 12
-    35mils, 4
-    40mils, 53
+    0.0254mm, 129
+    0.0762mm, 194
+    0.0968mm, 14
+    0.0988mm, 23
+    0.1mm, 9
+    0.1016mm, 50
+    0.1095mm, 539
+    0.1097mm, 129
+    0.1196mm, 8
+    0.127mm, 495
+    0.143mm, 57
+    0.1524mm, 257
+    0.1778mm, 65
+    0.2mm, 10
+    0.2032mm, 34
+    0.254mm, 374
+    0.3048mm, 13
+    0.381mm, 298
+    0.508mm, 134
+    0.635mm, 13
+    0.762mm, 32
+    0.889mm, 4
+    1.016mm, 44
 count : 23
 
 Arc Line Width, Count
-    0mils, 3
-    1mils, 3
-    3mils, 2
-    4.31mils, 56
-    5mils, 3
-    6mils, 3
-    8mils, 1
-    10mils, 22
-    20mils, 2
-count : 9
+    0mm, 3
+    0.0254mm, 3
+    0.0762mm, 2
+    0.1mm, 2
+    0.1095mm, 59
+    0.1524mm, 3
+    0.2mm, 2
+    0.2032mm, 6
+    0.254mm, 20
+    0.508mm, 1
+count : 10
 
 Arc Radius, Count
-    1.099mils, 2
-    2mils, 19
-    2.203mils, 1
-    2.525mils, 4
-    3mils, 9
-    4.31mils, 1
-    4.31mils, 2
-    4.31mils, 1
-    4.357mils, 1
-    4.503mils, 1
-    5mils, 2
-    5.05mils, 1
-    6.238mils, 1
-    6.303mils, 1
-    6.33mils, 1
-    6.599mils, 1
-    6.676mils, 1
-    6.747mils, 1
-    6.818mils, 1
-    7.397mils, 1
-    7.562mils, 1
-    7.604mils, 1
-    7.883mils, 1
-    8.31mils, 1
-    8.459mils, 1
-    8.812mils, 1
-    9.308mils, 1
-    9.431mils, 1
-    9.509mils, 1
-    9.586mils, 1
-    9.914mils, 1
-    10.604mils, 1
-    11.028mils, 1
-    11.113mils, 1
-    11.226mils, 1
-    11.886mils, 1
-    12.745mils, 1
-    12.987mils, 1
-    13.377mils, 1
-    14.226mils, 1
-    14.865mils, 1
-    15mils, 3
-    15.745mils, 1
-    16.092mils, 1
-    16.155mils, 1
-    16.474mils, 1
-    16.74mils, 1
-    17.612mils, 1
-    17.858mils, 1
-    18.157mils, 1
-    18.502mils, 1
-    20mils, 1
-    22.801mils, 1
-    24.821mils, 1
-    30.592mils, 1
-    30.749mils, 1
-    51.542mils, 1
-    81.397mils, 1
-    86.534mils, 1
-    157.48mils, 1
-    196.85mils, 1
-count : 61
+    0.0279mm, 2
+    0.0508mm, 19
+    0.056mm, 1
+    0.0641mm, 4
+    0.0762mm, 9
+    0.1mm, 2
+    0.1095mm, 1
+    0.1095mm, 2
+    0.1095mm, 1
+    0.1107mm, 1
+    0.1144mm, 1
+    0.1283mm, 1
+    0.1584mm, 1
+    0.1601mm, 1
+    0.1608mm, 1
+    0.1676mm, 1
+    0.1696mm, 1
+    0.1714mm, 1
+    0.1732mm, 1
+    0.1879mm, 1
+    0.1921mm, 1
+    0.1931mm, 1
+    0.2002mm, 1
+    0.2032mm, 5
+    0.2111mm, 1
+    0.2149mm, 1
+    0.2238mm, 1
+    0.2364mm, 1
+    0.2396mm, 1
+    0.2415mm, 1
+    0.2435mm, 1
+    0.2518mm, 1
+    0.2527mm, 1
+    0.2694mm, 1
+    0.2801mm, 1
+    0.2823mm, 1
+    0.2851mm, 1
+    0.3019mm, 1
+    0.3237mm, 1
+    0.3299mm, 1
+    0.3398mm, 1
+    0.3549mm, 1
+    0.3613mm, 1
+    0.3776mm, 1
+    0.381mm, 2
+    0.3999mm, 1
+    0.4087mm, 1
+    0.4103mm, 1
+    0.4184mm, 1
+    0.4252mm, 1
+    0.4395mm, 1
+    0.4473mm, 1
+    0.4536mm, 1
+    0.4612mm, 1
+    0.4699mm, 1
+    0.5791mm, 1
+    0.6304mm, 1
+    0.777mm, 1
+    0.781mm, 1
+    0.8551mm, 1
+    1.3092mm, 1
+    1.876mm, 1
+    4mm, 1
+    5mm, 1
+count : 64
 
 Arc Degrees, Count
     1, 1
@@ -272,43 +282,46 @@ Arc Degrees, Count
     13, 1
     14, 1
     27, 2
+    44, 2
     45, 1
+    46, 3
     52, 1
     84, 1
-    90, 46
+    90, 49
     109, 1
     113, 1
-    300, 2
-    360, 35
-count : 13
+    170, 1
+    240, 1
+    360, 33
+count : 16
 
 Text Height, Count
-    15mils, 7
-    19.685mils, 1
-    30mils, 147
-    40mils, 73
-    45mils, 1
-    50mils, 62
-    59.055mils, 8
-    60mils, 185
-    70mils, 1
-    80mils, 3
+    0.381mm, 6
+    0.5mm, 1
+    0.762mm, 173
+    1.016mm, 76
+    1.143mm, 1
+    1.27mm, 48
+    1.5mm, 6
+    1.524mm, 176
+    1.778mm, 1
+    2.032mm, 3
 count : 10
 
 Text Width, Count
-    2.5mils, 1
-    3mils, 42
-    3.937mils, 1
-    5mils, 144
-    7.874mils, 115
-    10mils, 185
+    0.0635mm, 1
+    0.0762mm, 25
+    0.1mm, 1
+    0.127mm, 172
+    0.2mm, 115
+    0.254mm, 177
 count : 6
 
 Net Track Width, Count
-    3mils, 94
-    10mils, 4
+    0.0762mm, 95
+    0.254mm, 2
 count : 2
 
 Net Via Size, Count
-    17.717mils, 98
+    0.45mm, 97
 count : 1
