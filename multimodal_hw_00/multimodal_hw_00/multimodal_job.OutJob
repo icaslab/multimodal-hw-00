@@ -15,7 +15,7 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=Job1.OutJob
+Name=multimodal_job.OutJob
 Description=
 TargetOutputMedium=Folder Structure
 VariantName=[No Variations]
@@ -631,17 +631,31 @@ OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 Configuration8_Name1=OutputConfigurationParameter1
 Configuration8_Item1=Record=LayerStackReportView|Units=Imperial|ColumnsCount=18|Column0Name=Name|Column0Title=Name|Column0Visible=True|Column1Name=Material|Column1Title=Material|Column1Visible=True|Column2Name=Thickness|Column2Title=Thickness|Column2Visible=True|Column3Name=Constant|Column3Title=Constant|Column3Visible=True|Column4Name=DielectricConstant|Column4Title=Dk|Column4Visible=True|Column5Name=CoverlayExpansion|Column5Title=Coverlay expansion|Column5Visible=False|Column6Name=ComponentPlacement|Column6Title=Orientation|Column6Visible=False|Column7Name=CopperOrientation|Column7Title=Copper Orientation|Column7Visible=False|Column8Name=Weight|Column8Title=Weight|Column8Visible=False|Column9Name=Process|Column9Title=Process|Column9Visible=False|Column10Name=Material.Manufacturer|Column10Title=Manufacturer|Column10Visible=False|Column11Name=Material.Description|Column11Title=Description|Column11Visible=False|Column12Name=LossTangent|Column12Title=Df|Column12Visible=False|Column13Name=Material.Constructions|Column13Title=Constructions|Column13Visible=False|Column14Name=Material.Resin|Column14Title=Resin|Column14Visible=False|Column15Name=Material.Frequency|Column15Title=Frequency|Column15Visible=False|Column16Name=Material.GlassTransTemp|Column16Title=GlassTransTemp|Column16Visible=False|Column17Name=PullbackDistance|Column17Title=Pullback distance|Column17Visible=False|DocumentPath=C:\Users\isili\OneDrive\Desktop\multimodal-hw-00\multimodal_hw_00\multimodal_hw_00\Multimodal.PcbDoc
+OutputType9=Design Rules Check
+OutputName9=Design Rules Check
+OutputCategory9=Validation
+OutputDocumentPath9=Multimodal.PcbDoc
+OutputVariantName9=
+OutputEnabled9=1
+OutputEnabled9_OutputMedium1=0
+OutputEnabled9_OutputMedium2=0
+OutputEnabled9_OutputMedium3=6
+OutputEnabled9_OutputMedium4=0
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=1|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration9_Name1=OutputConfigurationParameter1
+Configuration9_Item1=ortView|Units=Imperial|ColumnsCount=18|Column0Name=Name|Column0Title=Name|Column0Visible=True|Column1Name=Material|Column1Title=Material|Column1Visible=True|Column2Name=Thickness|Column2Title=Thickness|Column2Visible=True|Column3Name=Constant|Column3Title=Constant|Column3Visible=True|Column4Name=DielectricConstant|Column4Title=Dk|Column4Visible=True|Column5Name=CoverlayExpansion|Column5Title=Coverlay expansion|Column5Visible=False|Column6Name=ComponentPlacement|Column6Title=Orientation|Column6Visible=False|Column7Name=CopperOrientation|Column7Title=Copper Orientation|Column7Visible=False|Column8Name=Weight|Column8Title=Weight|Column8Visible=False|Column9Name=Process|Column9Title=Process|Column9Visible=False|Column10Name=Material.Manufacturer|Column10Title=Manufacturer|Column10Visible=False|Column11Name=Material.Description|Column11Title=Description|Column11Visible=False|Column12Name=LossTangent|Column12Title=Df|Column12Visible=False|Column13Name=Material.Constructions|Column13Title=Constructions|Column13Visible=False|Column14Name=Material.Resin|Column14Title=Resin|Column14Visible=False|Column15Name=Material.Frequency|Column15Title=Frequency|Column15Visible=False|Column16Name=Material.GlassTransTemp|Column16Title=GlassTransTemp|Column16Visible=False|Column17Name=PullbackDistance|Column17Title=Pullback distance|Column17Visible=False|DocumentPath=C:\Users\isili\OneDrive\Desktop\multimodal-hw-00\multimodal_hw_00\multimodal_hw_00\Multimodal.PcbDoc
 
 [PublishSettings]
 OutputFilePath2=
 ReleaseManaged2=1
-OutputBasePath2=
+OutputBasePath2=Project Outputs for multimodal_hw_00
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
-OutputFileName2=
+OutputFileName2=multimodal_job.PDF
 OutputFileNameMulti2=
 UseOutputNameForMulti2=1
 OutputFileNameSpecial2=
@@ -675,7 +689,7 @@ OutputFileNameSpecial3=
 OpenOutput3=1
 OutputFilePath4=
 ReleaseManaged4=1
-OutputBasePath4=
+OutputBasePath4=Project Outputs for multimodal_hw_00
 OutputPathMedia4=
 OutputPathMediaValue4=
 OutputPathOutputer4=[Output Type]
