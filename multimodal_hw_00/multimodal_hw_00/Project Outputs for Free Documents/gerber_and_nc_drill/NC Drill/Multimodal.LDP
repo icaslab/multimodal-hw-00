@@ -1,7 +1,0 @@
-Layer Pairs Export File for PCB: C:\Users\isili\OneDrive\Desktop\multimodal-hw-00\multimodal_hw_00\multimodal_hw_00\Multimodal.PcbDoc
-LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=multimodal-roundholes-plated.txt|DrillLayers=gtl,g1,g2,g3,g4,gbl
-LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=multimodal-slotholes-plated.txt|DrillLayers=gtl,g1,g2,g3,g4,gbl
-LayersSetName=L1_TOP_L2_GND_Blind_Vias|DrillFile=multimodal-roundholes-plated.tx1|DrillLayers=gtl,g1
-LayersSetName=L1_TOP_L3_Signal_Blind_Vias|DrillFile=multimodal-roundholes-plated.tx3|DrillLayers=gtl,g1,g2
-LayersSetName=L1_TOP_L4_PWR_Blind_Vias|DrillFile=multimodal-roundholes-plated.tx4|DrillLayers=gtl,g1,g2,g3
-LayersSetName=L1_TOP_L2_GND_Blind_Vias|DrillFile=multimodal-roundholes-plated.tx6|DrillLayers=gtl,g1
