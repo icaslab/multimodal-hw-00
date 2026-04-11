@@ -1,0 +1,10 @@
+Output: Design Rules Check
+Type  : DRC
+From  : PCB Document [Multimodal.PcbDoc]
+   Generated File[Multimodal.html]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 7:36:06 PM On 4/11/2026
