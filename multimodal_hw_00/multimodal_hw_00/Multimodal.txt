@@ -1,7 +1,7 @@
 Board Information Report
 Filename     : C:\Users\isili\OneDrive\Desktop\multimodal-hw-00\multimodal_hw_00\multimodal_hw_00\Multimodal.PcbDoc
-Date         : 4/12/2026
-Time         : 9:29:13 PM
+Date         : 4/3/2026
+Time         : 7:50:30 PM
 Time Elapsed : 00:00:00
 
 General
@@ -17,12 +17,12 @@ Routing Information
 count : 4
 
 Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
-    L1_TOP, 45, 444, 0, 1319, 0, 0, 248, 0
+    L1_TOP, 59, 444, 0, 1278, 0, 0, 559, 0
     L2_GND, 0, 0, 0, 0, 0, 0, 5, 0
-    L3_Signal, 0, 0, 0, 153, 0, 0, 16, 0
-    L4_PWR, 0, 0, 0, 80, 0, 0, 12, 0
+    L3_Signal, 0, 0, 0, 118, 0, 0, 32, 0
+    L4_PWR, 0, 0, 0, 80, 0, 0, 14, 0
     L5_GND, 0, 0, 0, 0, 0, 0, 5, 0
-    L6_BOTTOM, 1, 78, 0, 347, 0, 0, 80, 0
+    L6_BOTTOM, 5, 78, 0, 347, 0, 0, 145, 0
     Mechanical 1, 0, 0, 0, 0, 0, 0, 0, 11
     Top 3D Body, 0, 0, 0, 167, 0, 0, 0, 4
     Top Courtyard, 0, 0, 0, 42, 0, 0, 0, 0
@@ -38,7 +38,7 @@ Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
     Bottom Courtyard, 0, 0, 0, 0, 0, 0, 0, 0
     Bottom 3D Body, 0, 0, 0, 0, 0, 0, 0, 0
     Bottom Component Center, 0, 0, 0, 0, 0, 0, 0, 0
-    Multi-Layer, 0, 6, 621, 0, 0, 0, 1, 0
+    Multi-Layer, 0, 6, 563, 0, 0, 0, 1, 0
     Top Paste, 0, 0, 0, 0, 0, 0, 25, 0
     Top Overlay, 8, 0, 0, 123, 266, 0, 86, 0
     Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
@@ -51,19 +51,19 @@ Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
 count : 31
 
 Drill Pairs, Vias
-    L1_TOP - L6_BOTTOM, 509
-    L1_TOP - L2_GND, 52
-    L2_GND - L3_Signal, 40
-    L3_Signal - L4_PWR, 20
+    L1_TOP - L6_BOTTOM, 500
+    L1_TOP - L4_PWR, 21
+    L1_TOP - L3_Signal, 30
+    L1_TOP - L2_GND, 12
 count : 4
 
 Layer, Sq.In., Sq.MM., Percent of layer
-    L1_TOP, 1.921, 1239.479, 76%
-    L2_GND, 2.344, 1511.98, 92%
-    L3_Signal, 2.289, 1476.546, 90%
-    L4_PWR, 2.151, 1387.666, 85%
-    L5_GND, 2.353, 1518.169, 93%
-    L6_BOTTOM, 2.254, 1453.901, 89%
+    L1_TOP, 1.905, 1229.099, 75%
+    L2_GND, 2.349, 1515.393, 92%
+    L3_Signal, 2.31, 1490.404, 91%
+    L4_PWR, 2.158, 1392.448, 85%
+    L5_GND, 2.361, 1523.259, 93%
+    L6_BOTTOM, 2.239, 1444.662, 88%
 count : 6
 
 Non-Plated Hole Size, Pads, Vias
@@ -71,11 +71,11 @@ count : 0
 
 Plated Hole Size, Pads, Vias
     0mils, 522, 0
-    3.937mils, 0, 92
-    5.906mils, 0, 118
-    7.874mils, 0, 263
-    9.843mils, 0, 69
-    10mils, 0, 49
+    3.937mils, 0, 48
+    5.906mils, 0, 180
+    7.874mils, 0, 254
+    9.843mils, 0, 3
+    10mils, 0, 48
     12mils, 0, 30
     43.307mils, 2, 0
 count : 8
@@ -97,33 +97,33 @@ count : 0
 Top Layer Annular Ring Size, Count
     -32mils, 2
     -16mils, 2
-    5.906mils, 117
-    7.874mils, 162
+    5.906mils, 68
+    7.874mils, 163
     8mils, 30
-    9.843mils, 263
-    10mils, 49
+    9.843mils, 254
+    10mils, 48
     19.685mils, 2
 count : 8
 
 Mid Layer Annular Ring Size, Count
     -32mils, 2
     -16mils, 2
-    5.906mils, 117
-    7.874mils, 162
+    5.906mils, 68
+    7.874mils, 163
     8mils, 30
-    9.843mils, 263
-    10mils, 49
+    9.843mils, 254
+    10mils, 48
     19.685mils, 2
 count : 8
 
 Bottom Layer Annular Ring Size, Count
     -32mils, 2
     -16mils, 2
-    5.906mils, 117
-    7.874mils, 162
+    5.906mils, 68
+    7.874mils, 163
     8mils, 30
-    9.843mils, 263
-    10mils, 49
+    9.843mils, 254
+    10mils, 48
     19.685mils, 2
 count : 8
 
@@ -162,84 +162,90 @@ Pad Relief Entries, Count
 count : 1
 
 Via Solder Mask, Count
-    2mils, 112
-    4mils, 509
+    2mils, 124
+    4mils, 439
 count : 2
 
 Via Pwr/Gnd Expansion, Count
-    4mils, 621
+    4mils, 563
 count : 1
 
 Track Width, Count
     1mils, 129
-    3.89mils, 15
+    3.89mils, 23
     3.937mils, 9
-    4mils, 242
-    4.71mils, 1
-    5mils, 28
-    5.628mils, 1
-    6mils, 252
-    7mils, 78
-    7.87mils, 1219
+    4mils, 258
+    4.31mils, 539
+    4.32mils, 129
+    4.71mils, 8
+    5mils, 495
+    5.628mils, 49
+    6mils, 257
+    7mils, 65
     7.874mils, 10
-    8mils, 67
-    10mils, 343
-    12mils, 12
-    15mils, 344
-    20mils, 150
-    25mils, 14
-    30mils, 30
+    8mils, 34
+    10mils, 374
+    12mils, 13
+    15mils, 298
+    20mils, 134
+    25mils, 13
+    30mils, 32
     35mils, 4
-    40mils, 45
-count : 20
+    40mils, 44
+count : 21
 
 Arc Line Width, Count
     0mils, 3
     1mils, 3
     3mils, 2
     3.937mils, 2
-    4.31mils, 1
-    5mils, 1
+    4.31mils, 59
     6mils, 3
-    7.87mils, 44
     7.874mils, 2
-    8mils, 1
+    8mils, 6
     10mils, 20
     20mils, 1
-count : 12
+count : 10
 
 Arc Radius, Count
     1.099mils, 2
-    1.232mils, 1
     2mils, 19
+    2.203mils, 1
     2.525mils, 4
     3mils, 9
     3.937mils, 2
     4.31mils, 1
+    4.31mils, 2
+    4.31mils, 1
     4.357mils, 1
     4.503mils, 1
     5.05mils, 1
+    6.238mils, 1
     6.303mils, 1
+    6.33mils, 1
+    6.599mils, 1
     6.676mils, 1
     6.747mils, 1
     6.818mils, 1
     7.397mils, 1
+    7.562mils, 1
     7.604mils, 1
-    7.727mils, 1
-    7.87mils, 2
     7.883mils, 1
+    8mils, 5
+    8.31mils, 1
     8.459mils, 1
     8.812mils, 1
-    9.018mils, 1
     9.308mils, 1
     9.431mils, 1
     9.509mils, 1
+    9.586mils, 1
     9.914mils, 1
     9.948mils, 1
     10.604mils, 1
     11.028mils, 1
     11.113mils, 1
     11.226mils, 1
+    11.886mils, 1
     12.745mils, 1
     12.987mils, 1
     13.377mils, 1
@@ -247,36 +253,50 @@ Arc Radius, Count
     14.226mils, 1
     14.865mils, 1
     15mils, 2
-    15.605mils, 1
+    15.745mils, 1
+    16.092mils, 1
+    16.155mils, 1
+    16.474mils, 1
+    16.74mils, 1
     17.303mils, 1
+    17.612mils, 1
     17.858mils, 1
     18.157mils, 1
     18.502mils, 1
-    22.775mils, 1
     22.801mils, 1
     24.821mils, 1
     30.592mils, 1
+    30.749mils, 1
     33.665mils, 1
+    51.542mils, 1
+    73.858mils, 1
     157.48mils, 1
     196.85mils, 1
-count : 50
+count : 64
 
 Arc Degrees, Count
-    2, 1
+    1, 1
     3, 2
-    6, 1
-    27, 1
-    77, 1
-    90, 41
+    13, 1
+    14, 1
+    27, 2
+    44, 2
+    45, 1
+    46, 3
+    52, 1
+    84, 1
+    90, 49
     109, 1
+    113, 1
     170, 1
     240, 1
     360, 33
-count : 10
+count : 16
 
 Text Height, Count
     15mils, 6
-    30mils, 174
+    19.685mils, 1
+    30mils, 173
     40mils, 76
     45mils, 1
     50mils, 48
@@ -284,13 +304,13 @@ Text Height, Count
     60mils, 176
     70mils, 1
     80mils, 3
-count : 9
+count : 10
 
 Text Width, Count
     2.5mils, 1
-    3mils, 24
+    3mils, 25
     3.937mils, 1
-    5mils, 173
+    5mils, 172
     7.874mils, 115
     10mils, 177
 count : 6

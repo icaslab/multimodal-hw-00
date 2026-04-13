@@ -1,0 +1,49 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Multimodal.PcbDoc   4/12/2026  10:40:22 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : L1_TOP to L6_BOTTOM
+ASCII Plated RoundHoles File : Multimodal-RoundHoles-Plated.TXT
+ASCII Plated SlotHoles File : Multimodal-SlotHoles-Plated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T2      6mil (0.15mm)                                             Round             98        PTH        7.52inch (191.00mm)
+T3      8mil (0.2mm)                                              Round             262       PTH        19.74inch (501.28mm)
+T4      10mil (0.25mm)                                            Round             69        PTH        11.60inch (294.77mm)
+T5      10mil (0.254mm)                                           Round             48        PTH        6.38inch (161.93mm)
+T6      12mil (0.305mm)                                           Round             30        PTH        1.18inch (30.04mm)
+T7      24mil (0.61mm)                                            Slot              4         PTH        1.79inch (45.45mm)
+T8      43mil (1.1mm)                                             Round             2         PTH        0.10inch (2.54mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              513
+Layer Pair : L3_Signal to L4_PWR
+ASCII Plated RoundHoles File : Multimodal-RoundHoles-Plated.TX3
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T2      6mil (0.15mm)                                             Round             20        PTH        1.56inch (39.56mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              20
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              533
+MicroVia : L1_TOP to L2_GND
+ASCII Plated RoundHoles File : Multimodal-RoundHoles-Plated.TX4
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      4mil (0.1mm)                                              Round             52        PTH        2.15inch (54.71mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              52
+MicroVia : L2_GND to L3_Signal
+ASCII Plated RoundHoles File : Multimodal-RoundHoles-Plated.TX5
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      4mil (0.1mm)                                              Round             40        PTH        1.84inch (46.70mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              40
+----------------------------------------------------------------------------------------------------------------------------------
+MicroVia Totals                                                                     92
+
+Total Processing Time (hh:mm:ss) : 00:00:00
