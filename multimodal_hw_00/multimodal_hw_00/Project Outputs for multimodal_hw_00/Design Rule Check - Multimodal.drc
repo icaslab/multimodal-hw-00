@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\isili\OneDrive\Desktop\multimodal-hw-00\multimodal_hw_00\multimodal_hw_00\Multimodal.PcbDoc
-Date     : 4/12/2026
-Time     : 10:38:20 PM
+Date     : 6/19/2026
+Time     : 10:35:33 PM
 
 Processing Rule : Clearance Constraint (Gap=0mil) (Keepout),(All)
 Rule Violations :0
@@ -48,7 +48,7 @@ Rule Violations :0
 Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (InPadClass('PowerPads'))
 Rule Violations :0
 
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=11.811mil) (Conductor Width=4mil) (Air Gap=4mil) (Entries=4) (All)
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=11.811mil) (Conductor Width=8mil) (Air Gap=4mil) (Entries=4) (All)
 Rule Violations :0
 
 Processing Rule : Minimum Annular Ring (Minimum=2mil) (IsVia)
@@ -84,21 +84,15 @@ Rule Violations :0
 Processing Rule : Height Constraint (Min=0mil) (Max=71497.938mil) (Prefered=500mil) (All)
 Rule Violations :0
 
-PCB Health Issue Category : Duplicate Component Designators
-   Duplicated Designators: SMT Small Component GND-TESTPOINT_S (5414.378mil,2953.086mil) on L1_TOP
-   Duplicated Designators: SMT Small Component GND-TESTPOINT_S (5073.903mil,4205.428mil) on L1_TOP
-   Duplicated Designators: SMT Small Component GND-TESTPOINT_S (5586.785mil,4291.267mil) on L1_TOP
-Issues :3
-
 PCB Health Issue Category : Slots Hole Size > Length
-   Slot holes size > length: Pad J3-15(4777.846mil,4386.574mil) on Multi-Layer
-   Slot holes size > length: Pad J3-16(4777.846mil,4046.416mil) on Multi-Layer
-   Slot holes size > length: Pad J3-13(4620.365mil,4386.574mil) on Multi-Layer
-   Slot holes size > length: Pad J3-14(4620.365mil,4046.416mil) on Multi-Layer
+   Slot holes size > length: Pad J3-15(4776.467mil,4386.959mil) on Multi-Layer
+   Slot holes size > length: Pad J3-16(4776.467mil,4046.801mil) on Multi-Layer
+   Slot holes size > length: Pad J3-13(4618.987mil,4386.959mil) on Multi-Layer
+   Slot holes size > length: Pad J3-14(4618.987mil,4046.801mil) on Multi-Layer
 Issues :4
 
 
 Violations Detected : 0
 Waived Violations : 0
-PCB Health Issues : 7
-Time Elapsed        : 00:00:01
+PCB Health Issues : 4
+Time Elapsed        : 00:00:00
