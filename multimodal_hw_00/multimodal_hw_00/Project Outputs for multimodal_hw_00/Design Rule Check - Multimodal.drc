@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\isili\OneDrive\Desktop\multimodal-hw-00\multimodal_hw_00\multimodal_hw_00\Multimodal.PcbDoc
-Date     : 6/19/2026
-Time     : 10:35:33 PM
+Date     : 6/20/2026
+Time     : 1:27:03 AM
 
 Processing Rule : Clearance Constraint (Gap=0mil) (Keepout),(All)
 Rule Violations :0
@@ -95,4 +95,4 @@ Issues :4
 Violations Detected : 0
 Waived Violations : 0
 PCB Health Issues : 4
-Time Elapsed        : 00:00:00
+Time Elapsed        : 00:00:01
