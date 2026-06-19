@@ -1,0 +1,34 @@
+Added Component: Designator=R14(RES-STACK-POLE-0402)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "RMCF0402FT100KCT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R16(RES-STACK-POLE-0603)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "RT0603DRD07150RL"; VariantName = "[No Variations]"
+Added Component: Designator=R18(RES-STACK-POLE-0603)
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-2417-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=U2(YJC0003A_TEX)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CSD25481F4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3D Pin=R14-2
+Added Pin To Net: NetName=BLUE_CO2 Pin=R18-1
+Added Pin To Net: NetName=3V3D Pin=U2-2
+Added Pin To Net: NetName=ADPD_GPIO1 Pin=R16-2
+Added Pin To Net: NetName=ADPD_GPIO1 Pin=U5-C2
+Added Net: Name=ADPD_GPIO1
+Added Pin To Net: NetName=NetR14_1 Pin=R14-1
+Added Pin To Net: NetName=NetR14_1 Pin=R16-1
+Added Pin To Net: NetName=NetR14_1 Pin=U2-1
+Added Net: Name=NetR14_1
+Added Pin To Net: NetName=NetR18_2 Pin=R18-2
+Added Pin To Net: NetName=NetR18_2 Pin=U2-3
+Added Net: Name=NetR18_2
+Add Differential Pair: Number of nets in differential pair USB_DN is 1 instead of 2
+Added Member To Class: ClassName=U_05-multimodal-analogfrontend Member=Component R14 RMCF0402FT100K
+Added Member To Class: ClassName=U_05-multimodal-analogfrontend Member=Component R16 RT0603DRD07150RL
+Added Member To Class: ClassName=U_05-multimodal-analogfrontend Member=Component R18 RT0603DRE0712RL
+Add Class Member: Failed to add class member : Component SH1 MS190-10C
+Added Member To Class: ClassName=U_05-multimodal-analogfrontend Member=Component U2 CSD25481F4

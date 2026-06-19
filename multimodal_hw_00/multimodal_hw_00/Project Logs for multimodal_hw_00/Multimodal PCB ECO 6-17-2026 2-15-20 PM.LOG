@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=BAT+ Pin=J4-2
+Change Component Designator: OldDesignator=1 NewDesignator=TP7
+Change Component Designator: OldDesignator=1V8A NewDesignator=TP11
+Change Component Designator: OldDesignator=1V8D NewDesignator=TP13
+Change Component Designator: OldDesignator=2 NewDesignator=TP8
+Change Component Designator: OldDesignator=3V3D NewDesignator=TP14
+Change Component Designator: OldDesignator=3V3L NewDesignator=TP12
+Change Component Designator: OldDesignator=GD_B2 NewDesignator=TP1
+Change Component Designator: OldDesignator=GND NewDesignator=TP4
+Change Component Designator: OldDesignator=GND NewDesignator=TP6
+Change Component Designator: OldDesignator=GND NewDesignator=TP16
+Change Component Designator: OldDesignator=GND NewDesignator=TP17
+Change Component Designator: OldDesignator=ISET NewDesignator=TP9
+Change Component Designator: OldDesignator=L3 NewDesignator=TP15
+Change Component Designator: OldDesignator=SYS NewDesignator=TP5
+Added Component: Designator=U2(CJS-1200B_NDC-L)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "C&K Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AYZ0102AGRLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BAT+ Pin=U2-3
+Added Pin To Net: NetName=NetJ4_2 Pin=J4-2
+Added Pin To Net: NetName=NetJ4_2 Pin=U2-1
+Added Net: Name=NetJ4_2
+Add Differential Pair: Number of nets in differential pair USB_DN is 1 instead of 2
+Added Member To Class: ClassName=U_01-multimodal-powersupply Member=Component C6 CL05A225KO5NQNC
+Add Class Member: Failed to add class member : Component SH1 MS190-10C
+Added Member To Class: ClassName=U_05-multimodal-analogfrontend Member=Component TP1 TESTPOINT_S
+Added Member To Class: ClassName=U_01-multimodal-powersupply Member=Component TP4 TESTPOINT_S
+Added Member To Class: ClassName=U_01-multimodal-powersupply Member=Component TP5 TESTPOINT_S
+Added Member To Class: ClassName=U_01-multimodal-powersupply Member=Component TP6 TESTPOINT_S
+Added Member To Class: ClassName=U_12-multimodal-accelerometer Member=Component TP7 TESTPOINT_S
+Added Member To Class: ClassName=U_12-multimodal-accelerometer Member=Component TP8 TESTPOINT_S
+Added Member To Class: ClassName=U_01-multimodal-powersupply Member=Component TP9 TESTPOINT_S
+Added Member To Class: ClassName=U_01-multimodal-powersupply Member=Component TP11 TESTPOINT_S
+Added Member To Class: ClassName=U_01-multimodal-powersupply Member=Component TP12 TESTPOINT_S
+Added Member To Class: ClassName=U_01-multimodal-powersupply Member=Component TP13 TESTPOINT_S
+Added Member To Class: ClassName=U_01-multimodal-powersupply Member=Component TP14 TESTPOINT_S
+Added Member To Class: ClassName=U_01-multimodal-powersupply Member=Component TP16 TESTPOINT_S
+Added Member To Class: ClassName=U_01-multimodal-powersupply Member=Component TP17 TESTPOINT_S
+Added Member To Class: ClassName=U_01-multimodal-powersupply Member=Component U2 AYZ0102AGRLC

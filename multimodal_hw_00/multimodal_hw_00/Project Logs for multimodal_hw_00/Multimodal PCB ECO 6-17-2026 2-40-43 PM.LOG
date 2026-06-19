@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=NetJ4_2 Pin=SW3-1
+Removed Pin From Net: NetName=BAT+ Pin=SW3-2
+Removed Pin From Net: NetName=GND Pin=SW3-3
+Change Component Footprint: Designator=SW3 Old Footprint=SW3_CSS-1210TB_NDC New Footprint=450405020524
+Change Component Comment : Designator=SW3 Old Comment=CSS-1210TB New Comment=450405020524
+Change component parameters: Designator = "SW3" ("SW3"); Footprint = "SW3_CSS-1210TB_NDC"; UniqueID = "\IMPGQXRL\BUIASDBO" ("\IMPGQXRL\BUIASDBO")
+Change component parameters (AddParameter): Name = "Category"; Value = "Slide Switches"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Circuit"; Value = "SPDT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/450405020524?ad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/450405020524?ad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "8.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "450405020524"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Match Code"; Value = "WS-SLSU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Max"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operation Force"; Value = "225g"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Current"; Value = "300mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "5VDC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Terminal Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Terminal Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "3mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ4_2 Pin=SW3-COM
+Added Pin To Net: NetName=BAT+ Pin=SW3-L1
+Add Differential Pair: Number of nets in differential pair USB_DN is 1 instead of 2
+Add Class Member: Failed to add class member : Component SH1 MS190-10C
