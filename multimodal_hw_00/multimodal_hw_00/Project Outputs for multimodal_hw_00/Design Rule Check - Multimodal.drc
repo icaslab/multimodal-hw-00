@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\isili\OneDrive\Desktop\multimodal-hw-00\multimodal_hw_00\multimodal_hw_00\Multimodal.PcbDoc
-Date     : 6/20/2026
-Time     : 1:27:03 AM
+Date     : 6/22/2026
+Time     : 8:40:35 PM
 
 Processing Rule : Clearance Constraint (Gap=0mil) (Keepout),(All)
 Rule Violations :0
@@ -84,6 +84,11 @@ Rule Violations :0
 Processing Rule : Height Constraint (Min=0mil) (Max=71497.938mil) (Prefered=500mil) (All)
 Rule Violations :0
 
+PCB Health Issue Category : Duplicate Component Designators
+   Duplicated Designators: SMT Small Component GND-TESTPOINT_S (5073.903mil,4205.428mil) on L1_TOP
+   Duplicated Designators: SMT Small Component GND-TESTPOINT_S (5586.785mil,4291.267mil) on L1_TOP
+Issues :2
+
 PCB Health Issue Category : Slots Hole Size > Length
    Slot holes size > length: Pad J3-15(4776.467mil,4386.959mil) on Multi-Layer
    Slot holes size > length: Pad J3-16(4776.467mil,4046.801mil) on Multi-Layer
@@ -94,5 +99,5 @@ Issues :4
 
 Violations Detected : 0
 Waived Violations : 0
-PCB Health Issues : 4
-Time Elapsed        : 00:00:01
+PCB Health Issues : 6
+Time Elapsed        : 00:00:00

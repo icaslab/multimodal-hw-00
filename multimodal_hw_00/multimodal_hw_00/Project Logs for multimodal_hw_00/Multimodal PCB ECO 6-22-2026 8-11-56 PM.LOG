@@ -1,0 +1,16 @@
+Added Component: Designator=C39(CAPTDK0603)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C1608C0G1H102J080AE"; VariantName = "[No Variations]"
+Added Component: Designator=C44(CAPTDK0603)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C1608C0G1H102J080AE"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR14_1 Pin=C39-1
+Added Pin To Net: NetName=GND Pin=C39-2
+Added Pin To Net: NetName=NetR23_1 Pin=C44-1
+Added Pin To Net: NetName=GND Pin=C44-2
+Change Net Name : Old Net Name=NetR14_1 New Net Name=NetC39_1
+Change Net Name : Old Net Name=NetR23_1 New Net Name=NetC44_1
+Add Differential Pair: Number of nets in differential pair USB_DN is 1 instead of 2
+Added Member To Class: ClassName=U_05-multimodal-analogfrontend Member=Component C39 C1608C0G1H102J080AE
+Added Member To Class: ClassName=U_05-multimodal-analogfrontend Member=Component C44 C1608C0G1H102J080AE
+Add Class Member: Failed to add class member : Component SH1 MS190-10C
